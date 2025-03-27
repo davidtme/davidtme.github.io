@@ -7,8 +7,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 77,
+                            "x": 110,
+                            "y": 885,
                             "width": 32,
                             "height": 32
                         },
@@ -16,7 +16,9 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Depth=-1"
+                        ]
                     }
                 ]
             }
@@ -30,8 +32,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 77,
+                            "x": 110,
+                            "y": 885,
                             "width": 32,
                             "height": 32
                         },
@@ -39,13 +41,13 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 907,
-                            "y": 984,
+                            "x": 74,
+                            "y": 847,
                             "width": 28,
                             "height": 38
                         },
@@ -53,7 +55,9 @@
                             "x": 2,
                             "y": -10
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Depth=-1"
+                        ]
                     }
                 ]
             }
@@ -67,8 +71,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 33,
-                            "y": 710,
+                            "x": 45,
+                            "y": 739,
                             "width": 7,
                             "height": 11
                         },
@@ -76,7 +80,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -90,8 +94,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 961,
+                            "x": 47,
+                            "y": 715,
                             "width": 6,
                             "height": 11
                         },
@@ -99,7 +103,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -113,8 +117,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 686,
+                            "x": 45,
+                            "y": 727,
                             "width": 7,
                             "height": 11
                         },
@@ -122,7 +126,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -136,8 +140,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 33,
-                            "y": 698,
+                            "x": 47,
+                            "y": 703,
                             "width": 7,
                             "height": 11
                         },
@@ -145,7 +149,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -159,8 +163,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 674,
+                            "x": 47,
+                            "y": 691,
                             "width": 7,
                             "height": 11
                         },
@@ -168,7 +172,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -182,8 +186,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 32,
-                            "y": 686,
+                            "x": 47,
+                            "y": 679,
                             "width": 7,
                             "height": 11
                         },
@@ -191,7 +195,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -205,8 +209,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 662,
+                            "x": 43,
+                            "y": 561,
                             "width": 7,
                             "height": 11
                         },
@@ -214,7 +218,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -228,8 +232,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 32,
-                            "y": 674,
+                            "x": 43,
+                            "y": 549,
                             "width": 7,
                             "height": 11
                         },
@@ -237,7 +241,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -251,8 +255,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 650,
+                            "x": 43,
+                            "y": 537,
                             "width": 7,
                             "height": 11
                         },
@@ -260,7 +264,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -274,8 +278,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 32,
-                            "y": 662,
+                            "x": 43,
+                            "y": 525,
                             "width": 7,
                             "height": 11
                         },
@@ -283,7 +287,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -297,8 +301,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 765,
-                            "y": 950,
+                            "x": 24,
+                            "y": 385,
                             "width": 2,
                             "height": 4
                         },
@@ -306,7 +310,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -320,8 +324,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1004,
-                            "y": 988,
+                            "x": 1009,
+                            "y": 1008,
                             "width": 14,
                             "height": 15
                         },
@@ -329,7 +333,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -343,8 +347,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 765,
-                            "y": 955,
+                            "x": 773,
+                            "y": 971,
                             "width": 11,
                             "height": 11
                         },
@@ -352,7 +356,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -366,8 +370,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 26,
-                            "y": 770,
+                            "x": 910,
+                            "y": 968,
                             "width": 10,
                             "height": 11
                         },
@@ -375,7 +379,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -389,8 +393,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 136,
-                            "y": 955,
+                            "x": 45,
+                            "y": 751,
                             "width": 5,
                             "height": 15
                         },
@@ -398,7 +402,7 @@
                             "x": -1,
                             "y": -2
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -413,7 +417,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 1019,
-                            "y": 989,
+                            "y": 993,
                             "width": 4,
                             "height": 14
                         },
@@ -421,7 +425,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -435,8 +439,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 936,
-                            "y": 984,
+                            "x": 190,
+                            "y": 932,
                             "width": 2,
                             "height": 5
                         },
@@ -444,7 +448,7 @@
                             "x": 0,
                             "y": 9
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -458,8 +462,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 746,
+                            "x": 954,
+                            "y": 968,
                             "width": 9,
                             "height": 11
                         },
@@ -467,7 +471,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -481,8 +485,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 74,
-                            "y": 847,
+                            "x": 136,
+                            "y": 922,
                             "width": 6,
                             "height": 4
                         },
@@ -490,7 +494,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -504,8 +508,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 155,
-                            "y": 961,
+                            "x": 853,
+                            "y": 971,
                             "width": 11,
                             "height": 11
                         },
@@ -513,7 +517,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -527,8 +531,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 34,
-                            "y": 746,
+                            "x": 964,
+                            "y": 968,
                             "width": 9,
                             "height": 11
                         },
@@ -536,7 +540,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -550,8 +554,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 752,
-                            "y": 979,
+                            "x": 163,
+                            "y": 927,
                             "width": 2,
                             "height": 2
                         },
@@ -559,7 +563,7 @@
                             "x": 0,
                             "y": 9
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -573,8 +577,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 710,
+                            "x": 865,
+                            "y": 971,
                             "width": 8,
                             "height": 11
                         },
@@ -582,7 +586,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -596,8 +600,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 37,
-                            "y": 770,
+                            "x": 921,
+                            "y": 968,
                             "width": 10,
                             "height": 11
                         },
@@ -605,7 +609,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -619,8 +623,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 776,
-                            "y": 970,
+                            "x": 801,
+                            "y": 972,
                             "width": 12,
                             "height": 11
                         },
@@ -628,7 +632,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -642,8 +646,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 32,
-                            "y": 650,
+                            "x": 43,
+                            "y": 489,
                             "width": 6,
                             "height": 11
                         },
@@ -651,7 +655,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -665,8 +669,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 734,
+                            "x": 974,
+                            "y": 968,
                             "width": 9,
                             "height": 11
                         },
@@ -674,7 +678,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -688,8 +692,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 789,
-                            "y": 970,
+                            "x": 814,
+                            "y": 971,
                             "width": 12,
                             "height": 11
                         },
@@ -697,7 +701,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -711,8 +715,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 34,
-                            "y": 734,
+                            "x": 984,
+                            "y": 968,
                             "width": 9,
                             "height": 11
                         },
@@ -720,7 +724,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -734,8 +738,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 440,
-                            "y": 969,
+                            "x": 142,
+                            "y": 972,
                             "width": 4,
                             "height": 1
                         },
@@ -743,7 +747,7 @@
                             "x": 0,
                             "y": 7
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -757,8 +761,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 1,
+                            "x": 756,
+                            "y": 971,
                             "width": 16,
                             "height": 11
                         },
@@ -766,7 +770,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -780,8 +784,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 802,
-                            "y": 970,
+                            "x": 827,
+                            "y": 971,
                             "width": 12,
                             "height": 11
                         },
@@ -789,7 +793,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -804,7 +808,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 1019,
-                            "y": 974,
+                            "y": 978,
                             "width": 4,
                             "height": 14
                         },
@@ -812,7 +816,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -826,8 +830,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 758,
+                            "x": 932,
+                            "y": 968,
                             "width": 10,
                             "height": 11
                         },
@@ -835,7 +839,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -849,8 +853,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 722,
+                            "x": 994,
+                            "y": 968,
                             "width": 9,
                             "height": 11
                         },
@@ -858,7 +862,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -872,8 +876,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 626,
+                            "x": 43,
+                            "y": 477,
                             "width": 6,
                             "height": 11
                         },
@@ -881,7 +885,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -895,8 +899,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 765,
-                            "y": 967,
+                            "x": 709,
+                            "y": 965,
                             "width": 10,
                             "height": 14
                         },
@@ -904,7 +908,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -918,8 +922,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 142,
-                            "y": 961,
+                            "x": 840,
+                            "y": 971,
                             "width": 12,
                             "height": 11
                         },
@@ -927,7 +931,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -941,8 +945,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 638,
+                            "x": 43,
+                            "y": 513,
                             "width": 7,
                             "height": 11
                         },
@@ -950,7 +954,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -964,8 +968,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 698,
+                            "x": 43,
+                            "y": 501,
                             "width": 8,
                             "height": 11
                         },
@@ -973,7 +977,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -987,8 +991,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 167,
-                            "y": 961,
+                            "x": 874,
+                            "y": 968,
                             "width": 11,
                             "height": 11
                         },
@@ -996,7 +1000,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1010,8 +1014,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 179,
-                            "y": 961,
+                            "x": 886,
+                            "y": 968,
                             "width": 11,
                             "height": 11
                         },
@@ -1019,7 +1023,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1033,8 +1037,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 18,
-                            "y": 1,
+                            "x": 785,
+                            "y": 972,
                             "width": 15,
                             "height": 11
                         },
@@ -1042,7 +1046,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1056,8 +1060,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 191,
-                            "y": 961,
+                            "x": 898,
+                            "y": 968,
                             "width": 11,
                             "height": 11
                         },
@@ -1065,7 +1069,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1079,8 +1083,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 35,
-                            "y": 758,
+                            "x": 943,
+                            "y": 968,
                             "width": 10,
                             "height": 11
                         },
@@ -1088,7 +1092,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1102,8 +1106,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 34,
-                            "y": 722,
+                            "x": 1009,
+                            "y": 972,
                             "width": 9,
                             "height": 11
                         },
@@ -1111,7 +1115,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -1126,7 +1130,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 328,
-                            "y": 969,
+                            "y": 970,
                             "width": 27,
                             "height": 53
                         },
@@ -1134,13 +1138,32 @@
                             "x": 5,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 147,
+                            "x": 26,
+                            "y": 1,
+                            "width": 9,
+                            "height": 23
+                        },
+                        "offset": {
+                            "x": 8,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 197,
+                            "y": 901,
                             "width": 25,
                             "height": 36
                         },
@@ -1148,13 +1171,16 @@
                             "x": 3,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1162,13 +1188,15 @@
                             "x": 15,
                             "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 849,
-                            "y": 982,
+                            "x": 816,
+                            "y": 983,
                             "width": 28,
                             "height": 40
                         },
@@ -1176,7 +1204,9 @@
                             "x": 8,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -1191,7 +1221,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 356,
-                            "y": 969,
+                            "y": 970,
                             "width": 27,
                             "height": 53
                         },
@@ -1199,13 +1229,32 @@
                             "x": 5,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 109,
-                            "y": 884,
+                            "x": 24,
+                            "y": 501,
+                            "width": 18,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 8,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 444,
+                            "y": 939,
                             "width": 29,
                             "height": 32
                         },
@@ -1213,13 +1262,16 @@
                             "x": -1,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1227,21 +1279,25 @@
                             "x": 15,
                             "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1251,7 +1307,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 76,
-                            "y": 917,
+                            "y": 918,
                             "width": 29,
                             "height": 53
                         },
@@ -1259,13 +1315,32 @@
                             "x": 3,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 554,
-                            "y": 947,
+                            "x": 24,
+                            "y": 405,
+                            "width": 18,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 8,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 291,
+                            "y": 939,
                             "width": 31,
                             "height": 31
                         },
@@ -1273,13 +1348,16 @@
                             "x": -3,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1287,21 +1365,25 @@
                             "x": 15,
                             "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1311,7 +1393,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 142,
-                            "y": 973,
+                            "y": 974,
                             "width": 33,
                             "height": 49
                         },
@@ -1319,13 +1401,32 @@
                             "x": -1,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 45,
+                            "x": 24,
+                            "y": 468,
+                            "width": 18,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 9,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 76,
+                            "y": 886,
                             "width": 33,
                             "height": 31
                         },
@@ -1333,13 +1434,16 @@
                             "x": -5,
                             "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1347,21 +1451,25 @@
                             "x": 15,
                             "y": -53
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1371,7 +1479,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 270,
-                            "y": 970,
+                            "y": 971,
                             "width": 28,
                             "height": 52
                         },
@@ -1379,13 +1487,32 @@
                             "x": 4,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 752,
-                            "y": 982,
+                            "x": 720,
+                            "y": 968,
+                            "width": 17,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 8,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 719,
+                            "y": 983,
                             "width": 32,
                             "height": 40
                         },
@@ -1393,13 +1520,16 @@
                             "x": -4,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1407,21 +1537,25 @@
                             "x": 15,
                             "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1431,7 +1565,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 498,
-                            "y": 971,
+                            "y": 972,
                             "width": 27,
                             "height": 51
                         },
@@ -1439,13 +1573,32 @@
                             "x": 5,
                             "y": -33
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 650,
-                            "y": 946,
+                            "x": 24,
+                            "y": 536,
+                            "width": 18,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 7,
+                            "y": -8
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 474,
+                            "y": 939,
                             "width": 29,
                             "height": 32
                         },
@@ -1453,13 +1606,16 @@
                             "x": -1,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1467,21 +1623,25 @@
                             "x": 15,
                             "y": -50
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1491,7 +1651,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 210,
-                            "y": 970,
+                            "y": 971,
                             "width": 29,
                             "height": 52
                         },
@@ -1499,13 +1659,32 @@
                             "x": 3,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 74,
-                            "y": 852,
+                            "x": 24,
+                            "y": 747,
+                            "width": 20,
+                            "height": 19
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 323,
+                            "y": 937,
                             "width": 31,
                             "height": 32
                         },
@@ -1513,13 +1692,16 @@
                             "x": -3,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1527,21 +1709,25 @@
                             "x": 15,
                             "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1551,7 +1737,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 76,
-                            "y": 971,
+                            "y": 972,
                             "width": 32,
                             "height": 51
                         },
@@ -1559,13 +1745,32 @@
                             "x": 0,
                             "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 936,
-                            "y": 990,
+                            "x": 663,
+                            "y": 962,
+                            "width": 22,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 103,
+                            "y": 852,
                             "width": 33,
                             "height": 32
                         },
@@ -1573,13 +1778,16 @@
                             "x": -5,
                             "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1587,21 +1795,25 @@
                             "x": 15,
                             "y": -54
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1611,7 +1823,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 440,
-                            "y": 971,
+                            "y": 972,
                             "width": 28,
                             "height": 51
                         },
@@ -1619,13 +1831,32 @@
                             "x": 4,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 76,
-                            "y": 885,
+                            "x": 24,
+                            "y": 452,
+                            "width": 19,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 137,
+                            "y": 851,
                             "width": 32,
                             "height": 31
                         },
@@ -1633,13 +1864,16 @@
                             "x": -4,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1647,21 +1881,25 @@
                             "x": 15,
                             "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 344,
-                            "width": 24,
-                            "height": 39
+                            "x": 816,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 7,
+                            "x": 8,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -1675,8 +1913,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1684,27 +1922,64 @@
                             "x": 4,
                             "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 1,
-                            "y": 604,
+                            "y": 605,
                             "width": 22,
                             "height": 54
                         },
                         "offset": {
                             "x": 5,
-                            "y": -33
+                            "y": -32
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 197,
+                            "y": 843,
+                            "width": 24,
+                            "height": 20
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -6
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 874,
+                            "y": 980,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -34
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 554,
-                            "y": 979,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
@@ -1712,7 +1987,9 @@
                             "x": 0,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -1726,182 +2003,83 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
                             "x": 4,
-                            "y": -56
+                            "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 1,
-                            "y": 716,
+                            "y": 717,
                             "width": 22,
                             "height": 56
                         },
                         "offset": {
                             "x": 5,
-                            "y": -36
+                            "y": -32
                         },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 587,
-                            "y": 979,
-                            "width": 32,
-                            "height": 43
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": -38
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -57
-                        },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 26,
-                            "y": 782,
-                            "width": 22,
-                            "height": 56
+                            "y": 767,
+                            "width": 23,
+                            "height": 15
                         },
                         "offset": {
                             "x": 5,
-                            "y": -37
+                            "y": -6
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 620,
-                            "y": 979,
-                            "width": 32,
+                            "x": 901,
+                            "y": 980,
+                            "width": 26,
                             "height": 43
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -39
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -55
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 549,
-                            "width": 22,
-                            "height": 54
-                        },
-                        "offset": {
-                            "x": 5,
-                            "y": -35
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 653,
-                            "y": 979,
-                            "width": 32,
-                            "height": 43
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": -37
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -54
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 494,
-                            "width": 22,
-                            "height": 54
-                        },
-                        "offset": {
-                            "x": 5,
+                            "x": 3,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 653,
-                            "y": 979,
+                            "x": 587,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
                         "offset": {
                             "x": 0,
-                            "y": -36
+                            "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1910,8 +2088,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1919,13 +2097,15 @@
                             "x": 4,
                             "y": -56
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 51,
-                            "y": 846,
+                            "x": 26,
+                            "y": 783,
                             "width": 22,
                             "height": 56
                         },
@@ -1933,13 +2113,48 @@
                             "x": 5,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 686,
-                            "y": 979,
+                            "x": 24,
+                            "y": 674,
+                            "width": 22,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 928,
+                            "y": 980,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 620,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
@@ -1947,7 +2162,9 @@
                             "x": 0,
                             "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -1956,8 +2173,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -1965,27 +2182,64 @@
                             "x": 4,
                             "y": -57
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 1,
-                            "y": 659,
+                            "y": 550,
                             "width": 22,
-                            "height": 56
+                            "height": 54
                         },
                         "offset": {
                             "x": 5,
                             "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 620,
-                            "y": 979,
+                            "x": 686,
+                            "y": 962,
+                            "width": 22,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 955,
+                            "y": 980,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 653,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
@@ -1993,7 +2247,9 @@
                             "x": 0,
                             "y": -39
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2002,8 +2258,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2011,13 +2267,15 @@
                             "x": 4,
                             "y": -55
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
                             "x": 1,
-                            "y": 439,
+                            "y": 495,
                             "width": 22,
                             "height": 54
                         },
@@ -2025,13 +2283,48 @@
                             "x": 5,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 719,
-                            "y": 979,
+                            "x": 24,
+                            "y": 657,
+                            "width": 23,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 982,
+                            "y": 980,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 653,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
@@ -2039,7 +2332,9 @@
                             "x": 0,
                             "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2048,8 +2343,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2057,27 +2352,64 @@
                             "x": 4,
                             "y": -54
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 384,
+                            "x": 51,
+                            "y": 847,
                             "width": 22,
-                            "height": 54
+                            "height": 56
                         },
                         "offset": {
                             "x": 5,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 653,
-                            "y": 979,
+                            "x": 24,
+                            "y": 590,
+                            "width": 23,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -8
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 163,
+                            "y": 930,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -36
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 686,
+                            "y": 980,
                             "width": 32,
                             "height": 43
                         },
@@ -2085,7 +2417,264 @@
                             "x": 0,
                             "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -56
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 660,
+                            "width": 22,
+                            "height": 56
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -36
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 573,
+                            "width": 22,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 143,
+                            "y": 883,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 620,
+                            "y": 980,
+                            "width": 32,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -57
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 440,
+                            "width": 22,
+                            "height": 54
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 709,
+                            "width": 22,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 170,
+                            "y": 886,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 653,
+                            "y": 980,
+                            "width": 32,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -55
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 385,
+                            "width": 22,
+                            "height": 54
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 640,
+                            "width": 23,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 170,
+                            "y": 842,
+                            "width": 26,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 653,
+                            "y": 980,
+                            "width": 32,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -2100,7 +2689,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 51,
-                            "y": 903,
+                            "y": 904,
                             "width": 24,
                             "height": 57
                         },
@@ -2108,13 +2697,48 @@
                             "x": 4,
                             "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
+                            "x": 1,
+                            "y": 2,
+                            "width": 24,
+                            "height": 22
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 340,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
                             "width": 30,
                             "height": 39
                         },
@@ -2122,13 +2746,15 @@
                             "x": 1,
                             "y": -33
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2136,21 +2762,9 @@
                             "x": 4,
                             "y": -51
                         },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -2
-                        },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -2165,141 +2779,56 @@
                         "texture": "mega",
                         "rect": {
                             "x": 26,
-                            "y": 898,
+                            "y": 899,
                             "width": 24,
                             "height": 61
                         },
                         "offset": {
                             "x": 4,
-                            "y": -39
+                            "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
-                            "width": 30,
-                            "height": 39
-                        },
-                        "offset": {
-                            "x": 1,
-                            "y": -34
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -52
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -3
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
+                            "x": 564,
                             "y": 959,
                             "width": 24,
-                            "height": 63
+                            "height": 20
                         },
                         "offset": {
                             "x": 4,
-                            "y": -40
+                            "y": -10
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
-                            "width": 30,
-                            "height": 39
-                        },
-                        "offset": {
                             "x": 1,
-                            "y": -35
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
+                            "y": 295,
+                            "width": 26,
+                            "height": 44
                         },
                         "offset": {
-                            "x": 4,
-                            "y": -53
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -4
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 26,
-                            "y": 960,
-                            "width": 24,
-                            "height": 62
-                        },
-                        "offset": {
-                            "x": 4,
+                            "x": 3,
                             "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
+                            "x": 785,
+                            "y": 984,
                             "width": 30,
                             "height": 39
                         },
@@ -2307,13 +2836,15 @@
                             "x": 1,
                             "y": -33
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2321,21 +2852,9 @@
                             "x": 4,
                             "y": -51
                         },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -2
-                        },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2345,81 +2864,56 @@
                         "texture": "mega",
                         "rect": {
                             "x": 1,
-                            "y": 773,
+                            "y": 960,
                             "width": 24,
-                            "height": 58
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -37
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 818,
-                            "y": 983,
-                            "width": 30,
-                            "height": 39
-                        },
-                        "offset": {
-                            "x": 1,
-                            "y": -32
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -50
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -1
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 961,
-                            "width": 24,
-                            "height": 61
+                            "height": 63
                         },
                         "offset": {
                             "x": 4,
                             "y": -39
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
+                            "x": 564,
+                            "y": 939,
+                            "width": 23,
+                            "height": 19
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 250,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
                             "width": 30,
                             "height": 39
                         },
@@ -2427,13 +2921,15 @@
                             "x": 1,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2441,141 +2937,9 @@
                             "x": 4,
                             "y": -52
                         },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -3
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 895,
-                            "width": 24,
-                            "height": 63
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -40
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 818,
-                            "y": 983,
-                            "width": 30,
-                            "height": 39
-                        },
-                        "offset": {
-                            "x": 1,
-                            "y": -35
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -53
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -4
-                        },
-                        "metaData": ""
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 832,
-                            "width": 24,
-                            "height": 62
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -38
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 818,
-                            "y": 983,
-                            "width": 30,
-                            "height": 39
-                        },
-                        "offset": {
-                            "x": 1,
-                            "y": -33
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 4,
-                            "y": -51
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 8,
-                            "y": -2
-                        },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2585,21 +2949,226 @@
                         "texture": "mega",
                         "rect": {
                             "x": 26,
-                            "y": 839,
+                            "y": 961,
+                            "width": 24,
+                            "height": 62
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -40
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 623,
+                            "width": 23,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 205,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -40
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
+                            "width": 30,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": 1,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 774,
                             "width": 24,
                             "height": 58
                         },
                         "offset": {
                             "x": 4,
-                            "y": -37
+                            "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 983,
+                            "x": 588,
+                            "y": 941,
+                            "width": 24,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 160,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
+                            "width": 30,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": 1,
+                            "y": -33
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 51,
+                            "y": 962,
+                            "width": 24,
+                            "height": 61
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 589,
+                            "y": 959,
+                            "width": 24,
+                            "height": 20
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 115,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -37
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
                             "width": 30,
                             "height": 39
                         },
@@ -2607,13 +3176,15 @@
                             "x": 1,
                             "y": -32
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2621,21 +3192,264 @@
                             "x": 4,
                             "y": -50
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 896,
+                            "width": 24,
+                            "height": 63
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 51,
-                            "y": 841,
-                            "width": 16,
-                            "height": 4
+                            "x": 614,
+                            "y": 960,
+                            "width": 23,
+                            "height": 19
                         },
                         "offset": {
-                            "x": 8,
-                            "y": -1
+                            "x": 5,
+                            "y": -11
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 70,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -39
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
+                            "width": 30,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": 1,
+                            "y": -34
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 833,
+                            "width": 24,
+                            "height": 62
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -40
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 606,
+                            "width": 23,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 25,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -40
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
+                            "width": 30,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": 1,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 26,
+                            "y": 840,
+                            "width": 24,
+                            "height": 58
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 638,
+                            "y": 962,
+                            "width": 24,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 136,
+                            "y": 927,
+                            "width": 26,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": -38
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 785,
+                            "y": 984,
+                            "width": 30,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": 1,
+                            "y": -33
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -2650,7 +3464,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 384,
-                            "y": 969,
+                            "y": 970,
                             "width": 27,
                             "height": 53
                         },
@@ -2658,13 +3472,32 @@
                             "x": 0,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 110,
+                            "x": 1009,
+                            "y": 984,
+                            "width": 9,
+                            "height": 23
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 197,
+                            "y": 864,
                             "width": 25,
                             "height": 36
                         },
@@ -2672,13 +3505,16 @@
                             "x": 4,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
@@ -2686,13 +3522,15 @@
                             "x": -7,
                             "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 878,
-                            "y": 982,
+                            "x": 845,
+                            "y": 983,
                             "width": 28,
                             "height": 40
                         },
@@ -2700,7 +3538,9 @@
                             "x": -4,
                             "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -2715,57 +3555,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 412,
-                            "y": 969,
+                            "y": 970,
                             "width": 27,
                             "height": 53
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -35
+                            "x": 0,
+                            "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 680,
-                            "y": 946,
+                            "x": 24,
+                            "y": 484,
+                            "width": 18,
+                            "height": 16
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 504,
+                            "y": 939,
                             "width": 29,
                             "height": 32
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -36
+                            "x": 4,
+                            "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -52
+                            "x": -7,
+                            "y": -51
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 304,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -36
+                            "x": -4,
+                            "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2775,57 +3641,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 106,
-                            "y": 917,
+                            "y": 918,
                             "width": 29,
                             "height": 53
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -36
+                            "x": 0,
+                            "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 586,
-                            "y": 947,
+                            "x": 24,
+                            "y": 390,
+                            "width": 18,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 387,
+                            "y": 938,
                             "width": 31,
                             "height": 31
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -37
+                            "x": 4,
+                            "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -53
+                            "x": -7,
+                            "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 264,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -37
+                            "x": -4,
+                            "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2835,57 +3727,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 176,
-                            "y": 973,
+                            "y": 974,
                             "width": 33,
                             "height": 49
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -34
+                            "x": 0,
+                            "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 13,
+                            "x": 24,
+                            "y": 420,
+                            "width": 18,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 224,
+                            "y": 939,
                             "width": 33,
                             "height": 31
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -35
+                            "x": 4,
+                            "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -51
+                            "x": -7,
+                            "y": -53
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 264,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -35
+                            "x": -4,
+                            "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2895,57 +3813,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 299,
-                            "y": 970,
+                            "y": 971,
                             "width": 28,
                             "height": 52
-                        },
-                        "offset": {
-                            "x": -1,
-                            "y": -33
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 785,
-                            "y": 982,
-                            "width": 32,
-                            "height": 40
-                        },
-                        "offset": {
-                            "x": 3,
-                            "y": -34
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": -8,
-                            "y": -50
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 264,
-                            "width": 24,
-                            "height": 39
                         },
                         "offset": {
                             "x": 0,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 738,
+                            "y": 968,
+                            "width": 17,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 7,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 752,
+                            "y": 983,
+                            "width": 32,
+                            "height": 40
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
+                        },
+                        "offset": {
+                            "x": -4,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -2955,57 +3899,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 526,
-                            "y": 971,
+                            "y": 972,
                             "width": 27,
                             "height": 51
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -35
+                            "x": 0,
+                            "y": -33
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 710,
-                            "y": 946,
+                            "x": 24,
+                            "y": 518,
+                            "width": 18,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 7,
+                            "y": -8
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 534,
+                            "y": 939,
                             "width": 29,
                             "height": 32
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -36
+                            "x": 4,
+                            "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -52
+                            "x": -7,
+                            "y": -50
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 264,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -36
+                            "x": -4,
+                            "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -3015,57 +3985,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 240,
-                            "y": 970,
+                            "y": 971,
                             "width": 29,
                             "height": 52
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -37
+                            "x": 0,
+                            "y": -35
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 618,
-                            "y": 946,
+                            "x": 24,
+                            "y": 727,
+                            "width": 20,
+                            "height": 19
+                        },
+                        "offset": {
+                            "x": 6,
+                            "y": -11
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 355,
+                            "y": 937,
                             "width": 31,
                             "height": 32
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -38
+                            "x": 4,
+                            "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -54
+                            "x": -7,
+                            "y": -52
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 224,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -38
+                            "x": -4,
+                            "y": -36
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -3075,57 +4071,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 109,
-                            "y": 971,
+                            "y": 972,
                             "width": 32,
                             "height": 51
                         },
                         "offset": {
-                            "x": -1,
-                            "y": -34
+                            "x": 0,
+                            "y": -37
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 970,
-                            "y": 990,
+                            "x": 24,
+                            "y": 691,
+                            "width": 22,
+                            "height": 17
+                        },
+                        "offset": {
+                            "x": 5,
+                            "y": -12
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 190,
+                            "y": 938,
                             "width": 33,
                             "height": 32
                         },
                         "offset": {
-                            "x": 3,
-                            "y": -35
+                            "x": 4,
+                            "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 740,
-                            "y": 947,
+                            "x": 419,
+                            "y": 938,
                             "width": 24,
                             "height": 31
                         },
                         "offset": {
-                            "x": -8,
-                            "y": -51
+                            "x": -7,
+                            "y": -54
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1,
-                            "y": 224,
-                            "width": 24,
-                            "height": 39
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
                         },
                         "offset": {
-                            "x": 0,
-                            "y": -35
+                            "x": -4,
+                            "y": -38
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             },
@@ -3135,57 +4157,83 @@
                         "texture": "mega",
                         "rect": {
                             "x": 469,
-                            "y": 971,
+                            "y": 972,
                             "width": 28,
                             "height": 51
-                        },
-                        "offset": {
-                            "x": -1,
-                            "y": -33
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 106,
-                            "y": 852,
-                            "width": 32,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": 3,
-                            "y": -34
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 947,
-                            "width": 24,
-                            "height": 31
-                        },
-                        "offset": {
-                            "x": -8,
-                            "y": -50
-                        },
-                        "metaData": ""
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 184,
-                            "width": 24,
-                            "height": 39
                         },
                         "offset": {
                             "x": 0,
                             "y": -34
                         },
-                        "metaData": ""
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 24,
+                            "y": 436,
+                            "width": 19,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 7,
+                            "y": -9
+                        },
+                        "metaData": [
+                            "Normal"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 258,
+                            "y": 939,
+                            "width": 32,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Normal",
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 419,
+                            "y": 938,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 845,
+                            "y": 983,
+                            "width": 28,
+                            "height": 40
+                        },
+                        "offset": {
+                            "x": -4,
+                            "y": -35
+                        },
+                        "metaData": [
+                            "Bomb"
+                        ]
                     }
                 ]
             }
@@ -3199,8 +4247,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 755,
-                            "y": 979,
+                            "x": 190,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3208,7 +4256,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3222,8 +4270,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 758,
-                            "y": 979,
+                            "x": 140,
+                            "y": 919,
                             "width": 2,
                             "height": 2
                         },
@@ -3231,7 +4279,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3245,8 +4293,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 761,
-                            "y": 979,
+                            "x": 166,
+                            "y": 927,
                             "width": 2,
                             "height": 2
                         },
@@ -3254,7 +4302,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3268,8 +4316,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 776,
-                            "y": 967,
+                            "x": 193,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3277,7 +4325,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3291,8 +4339,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 815,
-                            "y": 979,
+                            "x": 196,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3300,7 +4348,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3314,8 +4362,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 818,
-                            "y": 980,
+                            "x": 199,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3323,7 +4371,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3337,8 +4385,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 41,
-                            "y": 719,
+                            "x": 202,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3346,7 +4394,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3360,8 +4408,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 765,
-                            "y": 947,
+                            "x": 205,
+                            "y": 971,
                             "width": 2,
                             "height": 2
                         },
@@ -3369,7 +4417,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3383,8 +4431,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 136,
-                            "y": 948,
+                            "x": 709,
+                            "y": 962,
                             "width": 2,
                             "height": 2
                         },
@@ -3392,7 +4440,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3406,8 +4454,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 1004,
-                            "y": 1004,
+                            "x": 24,
+                            "y": 554,
                             "width": 18,
                             "height": 18
                         },
@@ -3415,7 +4463,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3430,7 +4478,7 @@
                         "texture": "mega",
                         "rect": {
                             "x": 136,
-                            "y": 951,
+                            "y": 918,
                             "width": 3,
                             "height": 3
                         },
@@ -3438,7 +4486,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3452,8 +4500,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 142,
-                            "y": 957,
+                            "x": 193,
+                            "y": 934,
                             "width": 3,
                             "height": 3
                         },
@@ -3461,7 +4509,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3475,8 +4523,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 210,
-                            "y": 966,
+                            "x": 193,
+                            "y": 930,
                             "width": 3,
                             "height": 3
                         },
@@ -3484,7 +4532,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3498,8 +4546,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 68,
-                            "y": 842,
+                            "x": 103,
+                            "y": 848,
                             "width": 3,
                             "height": 3
                         },
@@ -3507,7 +4555,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3521,8 +4569,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 32,
-                            "y": 646,
+                            "x": 554,
+                            "y": 976,
                             "width": 3,
                             "height": 3
                         },
@@ -3530,7 +4578,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3544,8 +4592,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 24,
-                            "y": 622,
+                            "x": 554,
+                            "y": 972,
                             "width": 3,
                             "height": 3
                         },
@@ -3553,7 +4601,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3567,8 +4615,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 81,
-                            "y": 848,
+                            "x": 1019,
+                            "y": 974,
                             "width": 3,
                             "height": 3
                         },
@@ -3576,7 +4624,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3590,8 +4638,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 939,
-                            "y": 986,
+                            "x": 1004,
+                            "y": 976,
                             "width": 3,
                             "height": 3
                         },
@@ -3599,7 +4647,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
@@ -3613,8 +4661,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 768,
-                            "y": 951,
+                            "x": 51,
+                            "y": 843,
                             "width": 3,
                             "height": 3
                         },
@@ -3622,7 +4670,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "metaData": ""
+                        "metaData": []
                     }
                 ]
             }
