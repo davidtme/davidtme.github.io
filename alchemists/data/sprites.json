@@ -1,1746 +1,20 @@
 [
     {
-        "name": "Earth",
+        "name": "Bomb",
         "frames": [
             {
                 "layers": [
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 402,
-                            "y": 864,
-                            "width": 32,
-                            "height": 32
+                            "x": 999,
+                            "y": 954,
+                            "width": 24,
+                            "height": 31
                         },
                         "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": [
-                            "Depth=-1"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Wall",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 402,
-                            "y": 864,
-                            "width": 32,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    },
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 373,
-                            "y": 858,
-                            "width": 28,
-                            "height": 38
-                        },
-                        "offset": {
-                            "x": 2,
-                            "y": -10
-                        },
-                        "metaData": [
-                            "Depth=-1"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Explosion1",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 246,
-                            "y": 895,
-                            "width": 38,
-                            "height": 36
-                        },
-                        "offset": {
-                            "x": -3,
-                            "y": -8
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 443,
-                            "width": 54,
-                            "height": 42
-                        },
-                        "offset": {
-                            "x": -11,
-                            "y": -14
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 938,
-                            "y": 979,
-                            "width": 60,
-                            "height": 44
-                        },
-                        "offset": {
-                            "x": -15,
-                            "y": -15
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 871,
-                            "y": 980,
-                            "width": 66,
-                            "height": 43
-                        },
-                        "offset": {
-                            "x": -18,
-                            "y": -13
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 797,
-                            "y": 986,
-                            "width": 73,
-                            "height": 37
-                        },
-                        "offset": {
-                            "x": -20,
-                            "y": -8
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 477,
-                            "y": 936,
-                            "width": 79,
-                            "height": 36
-                        },
-                        "offset": {
-                            "x": -23,
-                            "y": -7
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 717,
-                            "y": 987,
-                            "width": 79,
-                            "height": 36
-                        },
-                        "offset": {
-                            "x": -23,
-                            "y": -9
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 407,
-                            "width": 68,
-                            "height": 35
-                        },
-                        "offset": {
-                            "x": -18,
-                            "y": -10
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 341,
-                            "width": 67,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": -17,
-                            "y": -11
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 374,
-                            "width": 68,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": -18,
-                            "y": -12
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Explosion2",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 435,
-                            "y": 864,
-                            "width": 32,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": -11
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 296,
-                            "width": 44,
-                            "height": 44
-                        },
-                        "offset": {
-                            "x": -6,
-                            "y": -20
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 486,
-                            "width": 53,
-                            "height": 100
-                        },
-                        "offset": {
-                            "x": -10,
-                            "y": -71
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 587,
-                            "width": 80,
-                            "height": 109
-                        },
-                        "offset": {
-                            "x": -25,
-                            "y": -80
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 697,
-                            "width": 90,
-                            "height": 105
-                        },
-                        "offset": {
-                            "x": -30,
-                            "y": -79
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 803,
-                            "width": 101,
-                            "height": 112
-                        },
-                        "offset": {
-                            "x": -36,
-                            "y": -86
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 1,
-                            "y": 916,
-                            "width": 120,
-                            "height": 107
-                        },
-                        "offset": {
-                            "x": -46,
-                            "y": -89
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 365,
-                            "y": 930,
-                            "width": 111,
-                            "height": 93
-                        },
-                        "offset": {
-                            "x": -43,
-                            "y": -92
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 249,
-                            "y": 932,
-                            "width": 115,
-                            "height": 91
-                        },
-                        "offset": {
-                            "x": -43,
-                            "y": -95
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 122,
-                            "y": 937,
-                            "width": 126,
-                            "height": 86
-                        },
-                        "offset": {
-                            "x": -48,
-                            "y": -92
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 477,
-                            "y": 973,
-                            "width": 119,
-                            "height": 50
-                        },
-                        "offset": {
-                            "x": -45,
-                            "y": -91
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 597,
-                            "y": 974,
-                            "width": 119,
-                            "height": 49
-                        },
-                        "offset": {
-                            "x": -45,
-                            "y": -90
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Explosion3",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 122,
-                            "y": 916,
-                            "width": 8,
-                            "height": 8
-                        },
-                        "offset": {
-                            "x": 12,
-                            "y": 14
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 614,
-                            "y": 908,
-                            "width": 25,
-                            "height": 25
-                        },
-                        "offset": {
-                            "x": 3,
-                            "y": 6
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 326,
-                            "y": 898,
-                            "width": 32,
-                            "height": 33
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 1
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 440,
-                            "y": 831,
-                            "width": 31,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 1
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 557,
-                            "y": 934,
-                            "width": 39,
-                            "height": 38
-                        },
-                        "offset": {
-                            "x": -4,
-                            "y": -3
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 640,
-                            "y": 932,
-                            "width": 40,
-                            "height": 41
-                        },
-                        "offset": {
-                            "x": -4,
-                            "y": -5
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 597,
-                            "y": 934,
-                            "width": 42,
-                            "height": 39
-                        },
-                        "offset": {
-                            "x": -6,
-                            "y": -5
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 131,
-                            "y": 898,
-                            "width": 40,
-                            "height": 38
-                        },
-                        "offset": {
-                            "x": -5,
-                            "y": -5
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 172,
-                            "y": 900,
-                            "width": 40,
-                            "height": 36
-                        },
-                        "offset": {
-                            "x": -6,
-                            "y": -5
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 285,
-                            "y": 898,
-                            "width": 40,
-                            "height": 33
-                        },
-                        "offset": {
-                            "x": -6,
+                            "x": 4,
                             "y": -6
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 359,
-                            "y": 897,
-                            "width": 40,
-                            "height": 32
-                        },
-                        "offset": {
-                            "x": -6,
-                            "y": -7
-                        },
-                        "metaData": []
-                    }
-                ]
-            },
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 717,
-                            "y": 961,
-                            "width": 35,
-                            "height": 25
-                        },
-                        "offset": {
-                            "x": -6,
-                            "y": -1
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-0",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 976,
-                            "y": 949,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-1",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 107,
-                            "y": 348,
-                            "width": 6,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-2",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 546,
-                            "y": 879,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-3",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 546,
-                            "y": 867,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-4",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 145,
-                            "y": 395,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-5",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 143,
-                            "y": 383,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-6",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 601,
-                            "y": 873,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-7",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 609,
-                            "y": 877,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-8",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 31,
-                            "y": 180,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-9",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 31,
-                            "y": 168,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Apostrophe",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 246,
-                            "y": 932,
-                            "width": 2,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-At",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 590,
-                            "y": 885,
-                            "width": 14,
-                            "height": 15
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-A",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 542,
-                            "y": 891,
-                            "width": 11,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-B",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 536,
-                            "y": 850,
-                            "width": 10,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Caret",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 185,
-                            "y": 793,
-                            "width": 5,
-                            "height": 15
-                        },
-                        "offset": {
-                            "x": -1,
-                            "y": -2
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Close Parenthesis",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 118,
-                            "y": 385,
-                            "width": 4,
-                            "height": 14
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Comma",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 95,
-                            "y": 385,
-                            "width": 2,
-                            "height": 5
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 9
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-C",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 430,
-                            "y": 820,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Double Quote",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 103,
-                            "y": 803,
-                            "width": 6,
-                            "height": 4
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-D",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 605,
-                            "y": 889,
-                            "width": 11,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-E",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 391,
-                            "y": 809,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Full Stop",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 846,
-                            "y": 946,
-                            "width": 2,
-                            "height": 2
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 9
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-F",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 122,
-                            "y": 925,
-                            "width": 8,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-G",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 590,
-                            "y": 873,
-                            "width": 10,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-H",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 440,
-                            "y": 819,
-                            "width": 12,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-I",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 31,
-                            "y": 144,
-                            "width": 6,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-J",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 125,
-                            "y": 395,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-K",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 453,
-                            "y": 819,
-                            "width": 12,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-L",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 135,
-                            "y": 395,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Minus",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 56,
-                            "y": 443,
-                            "width": 4,
-                            "height": 1
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 7
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-M",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 95,
-                            "y": 372,
-                            "width": 16,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-N",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 191,
-                            "y": 798,
-                            "width": 12,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Open Parenthesis",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 112,
-                            "y": 369,
-                            "width": 4,
-                            "height": 14
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-O",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 472,
-                            "y": 827,
-                            "width": 10,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-P",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 123,
-                            "y": 383,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Question Mark",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 31,
-                            "y": 132,
-                            "width": 6,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Q",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 96,
-                            "y": 345,
-                            "width": 10,
-                            "height": 14
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-R",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 204,
-                            "y": 798,
-                            "width": 12,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-S",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 31,
-                            "y": 156,
-                            "width": 7,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-T",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 740,
-                            "y": 917,
-                            "width": 8,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-U",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 554,
-                            "y": 874,
-                            "width": 11,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-V",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 566,
-                            "y": 874,
-                            "width": 11,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-W",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 96,
-                            "y": 360,
-                            "width": 15,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-X",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 578,
-                            "y": 874,
-                            "width": 11,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Y",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 380,
-                            "y": 809,
-                            "width": 10,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Font Small-Z",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 133,
-                            "y": 383,
-                            "width": 9,
-                            "height": 11
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
                         },
                         "metaData": []
                     }
@@ -1779,8 +53,8 @@
                             "height": 23
                         },
                         "offset": {
-                            "x": 7,
-                            "y": -9
+                            "x": 8,
+                            "y": -10
                         },
                         "metaData": [
                             "Normal"
@@ -5167,6 +3441,1755 @@
                         "metaData": [
                             "Bomb"
                         ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Earth",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 402,
+                            "y": 864,
+                            "width": 32,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": [
+                            "Depth=-1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wall",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 402,
+                            "y": 864,
+                            "width": 32,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 373,
+                            "y": 858,
+                            "width": 28,
+                            "height": 38
+                        },
+                        "offset": {
+                            "x": 2,
+                            "y": -10
+                        },
+                        "metaData": [
+                            "Depth=-1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Explosion1",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 246,
+                            "y": 895,
+                            "width": 38,
+                            "height": 36
+                        },
+                        "offset": {
+                            "x": -3,
+                            "y": -8
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 443,
+                            "width": 54,
+                            "height": 42
+                        },
+                        "offset": {
+                            "x": -11,
+                            "y": -14
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 938,
+                            "y": 979,
+                            "width": 60,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": -15,
+                            "y": -15
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 871,
+                            "y": 980,
+                            "width": 66,
+                            "height": 43
+                        },
+                        "offset": {
+                            "x": -18,
+                            "y": -13
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 797,
+                            "y": 986,
+                            "width": 73,
+                            "height": 37
+                        },
+                        "offset": {
+                            "x": -20,
+                            "y": -8
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 477,
+                            "y": 936,
+                            "width": 79,
+                            "height": 36
+                        },
+                        "offset": {
+                            "x": -23,
+                            "y": -7
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 717,
+                            "y": 987,
+                            "width": 79,
+                            "height": 36
+                        },
+                        "offset": {
+                            "x": -23,
+                            "y": -9
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 407,
+                            "width": 68,
+                            "height": 35
+                        },
+                        "offset": {
+                            "x": -18,
+                            "y": -10
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 341,
+                            "width": 67,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": -17,
+                            "y": -11
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 374,
+                            "width": 68,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": -18,
+                            "y": -12
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Explosion2",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 435,
+                            "y": 864,
+                            "width": 32,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": -11
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 296,
+                            "width": 44,
+                            "height": 44
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -20
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 486,
+                            "width": 53,
+                            "height": 100
+                        },
+                        "offset": {
+                            "x": -10,
+                            "y": -71
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 587,
+                            "width": 80,
+                            "height": 109
+                        },
+                        "offset": {
+                            "x": -25,
+                            "y": -80
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 697,
+                            "width": 90,
+                            "height": 105
+                        },
+                        "offset": {
+                            "x": -30,
+                            "y": -79
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 803,
+                            "width": 101,
+                            "height": 112
+                        },
+                        "offset": {
+                            "x": -36,
+                            "y": -86
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 1,
+                            "y": 916,
+                            "width": 120,
+                            "height": 107
+                        },
+                        "offset": {
+                            "x": -46,
+                            "y": -89
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 365,
+                            "y": 930,
+                            "width": 111,
+                            "height": 93
+                        },
+                        "offset": {
+                            "x": -43,
+                            "y": -92
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 249,
+                            "y": 932,
+                            "width": 115,
+                            "height": 91
+                        },
+                        "offset": {
+                            "x": -43,
+                            "y": -95
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 122,
+                            "y": 937,
+                            "width": 126,
+                            "height": 86
+                        },
+                        "offset": {
+                            "x": -48,
+                            "y": -92
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 477,
+                            "y": 973,
+                            "width": 119,
+                            "height": 50
+                        },
+                        "offset": {
+                            "x": -45,
+                            "y": -91
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 597,
+                            "y": 974,
+                            "width": 119,
+                            "height": 49
+                        },
+                        "offset": {
+                            "x": -45,
+                            "y": -90
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Explosion3",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 122,
+                            "y": 916,
+                            "width": 8,
+                            "height": 8
+                        },
+                        "offset": {
+                            "x": 12,
+                            "y": 14
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 614,
+                            "y": 908,
+                            "width": 25,
+                            "height": 25
+                        },
+                        "offset": {
+                            "x": 3,
+                            "y": 6
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 326,
+                            "y": 898,
+                            "width": 32,
+                            "height": 33
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 1
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 440,
+                            "y": 831,
+                            "width": 31,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 1
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 557,
+                            "y": 934,
+                            "width": 39,
+                            "height": 38
+                        },
+                        "offset": {
+                            "x": -4,
+                            "y": -3
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 640,
+                            "y": 932,
+                            "width": 40,
+                            "height": 41
+                        },
+                        "offset": {
+                            "x": -4,
+                            "y": -5
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 597,
+                            "y": 934,
+                            "width": 42,
+                            "height": 39
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -5
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 131,
+                            "y": 898,
+                            "width": 40,
+                            "height": 38
+                        },
+                        "offset": {
+                            "x": -5,
+                            "y": -5
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 172,
+                            "y": 900,
+                            "width": 40,
+                            "height": 36
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -5
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 285,
+                            "y": 898,
+                            "width": 40,
+                            "height": 33
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -6
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 359,
+                            "y": 897,
+                            "width": 40,
+                            "height": 32
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -7
+                        },
+                        "metaData": []
+                    }
+                ]
+            },
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 717,
+                            "y": 961,
+                            "width": 35,
+                            "height": 25
+                        },
+                        "offset": {
+                            "x": -6,
+                            "y": -1
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-0",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 976,
+                            "y": 949,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-1",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 107,
+                            "y": 348,
+                            "width": 6,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-2",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 546,
+                            "y": 879,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-3",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 546,
+                            "y": 867,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-4",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 145,
+                            "y": 395,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-5",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 143,
+                            "y": 383,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-6",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 601,
+                            "y": 873,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-7",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 609,
+                            "y": 877,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-8",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 31,
+                            "y": 180,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-9",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 31,
+                            "y": 168,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Apostrophe",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 246,
+                            "y": 932,
+                            "width": 2,
+                            "height": 4
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-At",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 590,
+                            "y": 885,
+                            "width": 14,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-A",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 542,
+                            "y": 891,
+                            "width": 11,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-B",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 536,
+                            "y": 850,
+                            "width": 10,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Caret",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 185,
+                            "y": 793,
+                            "width": 5,
+                            "height": 15
+                        },
+                        "offset": {
+                            "x": -1,
+                            "y": -2
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Close Parenthesis",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 118,
+                            "y": 385,
+                            "width": 4,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Comma",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 95,
+                            "y": 385,
+                            "width": 2,
+                            "height": 5
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 9
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-C",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 430,
+                            "y": 820,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Double Quote",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 103,
+                            "y": 803,
+                            "width": 6,
+                            "height": 4
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-D",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 605,
+                            "y": 889,
+                            "width": 11,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-E",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 391,
+                            "y": 809,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Full Stop",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 846,
+                            "y": 946,
+                            "width": 2,
+                            "height": 2
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 9
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-F",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 122,
+                            "y": 925,
+                            "width": 8,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-G",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 590,
+                            "y": 873,
+                            "width": 10,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-H",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 440,
+                            "y": 819,
+                            "width": 12,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-I",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 31,
+                            "y": 144,
+                            "width": 6,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-J",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 125,
+                            "y": 395,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-K",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 453,
+                            "y": 819,
+                            "width": 12,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-L",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 135,
+                            "y": 395,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Minus",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 56,
+                            "y": 443,
+                            "width": 4,
+                            "height": 1
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 7
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-M",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 95,
+                            "y": 372,
+                            "width": 16,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-N",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 191,
+                            "y": 798,
+                            "width": 12,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Open Parenthesis",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 112,
+                            "y": 369,
+                            "width": 4,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-O",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 472,
+                            "y": 827,
+                            "width": 10,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-P",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 123,
+                            "y": 383,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Question Mark",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 31,
+                            "y": 132,
+                            "width": 6,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Q",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 96,
+                            "y": 345,
+                            "width": 10,
+                            "height": 14
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-R",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 204,
+                            "y": 798,
+                            "width": 12,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-S",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 31,
+                            "y": 156,
+                            "width": 7,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-T",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 740,
+                            "y": 917,
+                            "width": 8,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-U",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 554,
+                            "y": 874,
+                            "width": 11,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-V",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 566,
+                            "y": 874,
+                            "width": 11,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-W",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 96,
+                            "y": 360,
+                            "width": 15,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-X",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 578,
+                            "y": 874,
+                            "width": 11,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Y",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 380,
+                            "y": 809,
+                            "width": 10,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Font Small-Z",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 133,
+                            "y": 383,
+                            "width": 9,
+                            "height": 11
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
                     }
                 ]
             }
