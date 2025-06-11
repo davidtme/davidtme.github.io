@@ -174,8 +174,7 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Cauldron"
+                "Earth"
             ],
             [
                 "Earth"
@@ -235,8 +234,7 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Cauldron"
+                "Earth"
             ],
             [
                 "Earth"
@@ -500,18 +498,10 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Gate"
-            ],
-            [
                 "Earth"
             ],
             [
                 "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
             ],
             [
                 "Earth"
@@ -538,11 +528,17 @@
                 "Earth"
             ],
             [
+                "Earth",
+                "Wall"
+            ],
+            [
                 "Earth"
             ],
             [
-                "Earth",
-                "Gate"
+                "Earth"
+            ],
+            [
+                "Earth"
             ],
             [
                 "Earth"
@@ -580,8 +576,7 @@
                 "Wall"
             ],
             [
-                "Earth",
-                "Wall"
+                "Earth"
             ],
             [
                 "Earth"
@@ -650,18 +645,10 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Gate"
-            ],
-            [
                 "Earth"
             ],
             [
                 "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
             ],
             [
                 "Earth"
@@ -688,11 +675,17 @@
                 "Earth"
             ],
             [
+                "Earth",
+                "Wall"
+            ],
+            [
                 "Earth"
             ],
             [
-                "Earth",
-                "Gate"
+                "Earth"
+            ],
+            [
+                "Earth"
             ],
             [
                 "Earth"
@@ -952,8 +945,7 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Cauldron"
+                "Earth"
             ],
             [
                 "Earth"
@@ -1013,8 +1005,7 @@
                 "Earth"
             ],
             [
-                "Earth",
-                "Cauldron"
+                "Earth"
             ],
             [
                 "Earth"
@@ -1214,5 +1205,175 @@
             "destructible": false,
             "passable": false
         }
+    ],
+    "interactives": [
+        [
+            "Gate",
+            {
+                "x": 2,
+                "y": 5
+            },
+            {
+                "player": 1,
+                "id": 28,
+                "open": false
+            }
+        ],
+        [
+            "Cauldron",
+            {
+                "x": 18,
+                "y": 2
+            },
+            {
+                "player": 4
+            }
+        ],
+        [
+            "Cauldron",
+            {
+                "x": 18,
+                "y": 12
+            },
+            {
+                "player": 2
+            }
+        ],
+        [
+            "Cauldron",
+            {
+                "x": 2,
+                "y": 12
+            },
+            {
+                "player": 3
+            }
+        ],
+        [
+            "Cauldron",
+            {
+                "x": 2,
+                "y": 2
+            },
+            {
+                "player": 1
+            }
+        ],
+        [
+            "Gate",
+            {
+                "x": 15,
+                "y": 8
+            },
+            {
+                "player": 2,
+                "id": 57,
+                "open": false
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 2.0,
+                "y": 4.0,
+                "width": 1.0,
+                "height": 0.5
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 2.0,
+                "y": 4.5,
+                "width": 1.0,
+                "height": 0.5
+            },
+            {
+                "target": 28,
+                "action": "GateOpen",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 2.0,
+                "y": 6.0,
+                "width": 1.0,
+                "height": 0.5
+            },
+            {
+                "target": 28,
+                "action": "GateOpen",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 2.0,
+                "y": 6.5,
+                "width": 1.0,
+                "height": 0.5
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 1.5,
+                "y": 1.5,
+                "width": 2.0,
+                "height": 2.0
+            },
+            {
+                "action": "Cauldron",
+                "player": 1,
+                "mode": "PlayerAction"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 3.0,
+                "y": 6.0,
+                "width": 1.0,
+                "height": 1.0
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 1.0,
+                "y": 6.0,
+                "width": 1.0,
+                "height": 1.0
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ]
     ]
 }
