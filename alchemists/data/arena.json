@@ -1334,6 +1334,66 @@
         [
             "Trigger",
             {
+                "x": 14.0,
+                "y": 8.0,
+                "width": 0.5,
+                "height": 1.0
+            },
+            {
+                "target": 57,
+                "action": "GateClose",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 14.5,
+                "y": 8.0,
+                "width": 0.5,
+                "height": 1.0
+            },
+            {
+                "target": 57,
+                "action": "GateOpen",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 16.0,
+                "y": 8.0,
+                "width": 0.5,
+                "height": 1.0
+            },
+            {
+                "target": 57,
+                "action": "GateOpen",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 16.5,
+                "y": 8.0,
+                "width": 0.5,
+                "height": 1.0
+            },
+            {
+                "target": 57,
+                "action": "GateClose",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
                 "x": 1.5,
                 "y": 1.5,
                 "width": 2.0,
@@ -1372,6 +1432,50 @@
                 "target": 28,
                 "action": "GateClose",
                 "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 17.5,
+                "y": 11.5,
+                "width": 2.0,
+                "height": 2.0
+            },
+            {
+                "action": "Cauldron",
+                "player": 2,
+                "mode": "PlayerAction"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 14.5,
+                "y": 9.0,
+                "width": 0.5,
+                "height": 0.5
+            },
+            {
+                "target": 57,
+                "action": "GateClose",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 14.5,
+                "y": 7.5,
+                "width": 0.5,
+                "height": 0.5
+            },
+            {
+                "target": 57,
+                "action": "GateClose",
+                "player": 2,
                 "mode": "PlayerMove"
             }
         ]
