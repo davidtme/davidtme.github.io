@@ -437,19 +437,24 @@
                 "Destructible"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
@@ -511,21 +516,24 @@
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
@@ -585,19 +593,24 @@
                 "Earth"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth"
@@ -658,21 +671,24 @@
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
                 "Wall"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth",
@@ -733,19 +749,24 @@
                 "Earth"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
-                "Earth"
+                "Earth",
+                "Chest"
             ],
             [
                 "Earth"
@@ -1182,27 +1203,28 @@
     "pointTypes": [
         {
             "name": "Earth",
-            "destructible": false,
             "passable": true
         },
         {
             "name": "Cauldron",
-            "destructible": false,
             "passable": false
         },
         {
             "name": "Destructible",
-            "destructible": true,
+            "health": 3,
             "passable": false
         },
         {
             "name": "Wall",
-            "destructible": false,
             "passable": false
         },
         {
             "name": "Gate",
-            "destructible": false,
+            "passable": false
+        },
+        {
+            "name": "Chest",
+            "health": 1,
             "passable": false
         }
     ],
