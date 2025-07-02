@@ -4,1198 +4,1198 @@
     "points": [
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
-                "Wall"
-            ]
-        ],
-        [
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Destructible"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Destructible"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B",
+                "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B",
+                "Destructible"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Chest"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth",
-                "Chest"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Chest"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
                 "Chest"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Chest"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Chest"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Chest"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Chest"
             ],
             [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth",
-                "Chest"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Chest"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A",
+                "Chest"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Chest"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A",
+                "Chest"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Chest"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor A",
+                "Wall"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
-            ],
-            [
-                "Earth",
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Wall"
+                "Floor A"
             ],
             [
-                "Earth",
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Destructible"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Destructible"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Destructible"
             ],
             [
-                "Earth"
+                "Floor A",
+                "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth"
+                "Floor A"
             ],
             [
-                "Earth"
+                "Floor B"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth"
+                "Floor B",
+                "Wall"
             ],
             [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Destructible"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Earth",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Earth",
-                "Destructible"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth"
-            ],
-            [
-                "Earth",
+                "Floor A",
                 "Wall"
             ]
         ],
         [
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ]
+        ],
+        [
+            [
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor A",
                 "Wall"
             ],
             [
-                "Earth",
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
                 "Wall"
             ]
         ]
@@ -1203,29 +1203,98 @@
     "pointTypes": [
         {
             "name": "Earth",
-            "passable": true
+            "destructible": "Indestructible",
+            "passable": true,
+            "mode": "Scenery"
         },
         {
             "name": "Cauldron",
-            "passable": false
-        },
-        {
-            "name": "Destructible",
-            "health": 3,
-            "passable": false
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery"
         },
         {
             "name": "Wall",
-            "passable": false
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery"
         },
         {
             "name": "Gate",
-            "passable": false
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Destructible",
+            "destructible": [
+                "DestructibleSpawn",
+                [
+                    "Destructible Damaged 1"
+                ]
+            ],
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Destructible Damaged 1",
+            "destructible": [
+                "DestructibleSpawn",
+                [
+                    "Destructible Damaged 2"
+                ]
+            ],
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Destructible Damaged 2",
+            "destructible": [
+                "DestructibleSpawn",
+                [
+                    "Builder",
+                    null,
+                    null
+                ]
+            ],
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Builder",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Pickup"
         },
         {
             "name": "Chest",
-            "health": 1,
-            "passable": false
+            "destructible": [
+                "DestructibleSpawn",
+                [
+                    "Ingredient",
+                    null
+                ]
+            ],
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Ingredient",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Pickup"
+        },
+        {
+            "name": "Floor A",
+            "destructible": "Indestructible",
+            "passable": true,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Floor B",
+            "destructible": "Indestructible",
+            "passable": true,
+            "mode": "Scenery"
         }
     ],
     "interactives": [
