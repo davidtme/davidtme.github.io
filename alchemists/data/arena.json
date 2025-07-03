@@ -1637,67 +1637,78 @@
             "name": "Wall A",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Down",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Left Top",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Right Top",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Top Left Corner",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Top Right Corner",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Bottom Left Corner A",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Bottom Left Corner",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Bottom Right Corner A",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Bottom Right Corner",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         },
         {
             "name": "Wall Bottom",
             "destructible": "Indestructible",
             "passable": false,
-            "mode": "Scenery"
+            "mode": "Scenery",
+            "zIndex": 1
         }
     ],
     "interactives": [
