@@ -135,21 +135,6 @@
                 "Destructible"
             ],
             [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A"
-            ],
-            [
                 "Floor B"
             ],
             [
@@ -174,16 +159,25 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -230,22 +224,6 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
                 "Floor A"
             ],
             [
@@ -274,16 +252,28 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -330,16 +320,13 @@
                 "Destructible"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A"
@@ -376,16 +363,13 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -434,16 +418,14 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -482,16 +464,14 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -542,12 +522,10 @@
                 "Wall"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -594,12 +572,10 @@
                 "Chest"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -745,7 +721,8 @@
                 "Wall"
             ],
             [
-                "Floor A"
+                "Floor A",
+                "Wall"
             ],
             [
                 "Floor B"
@@ -943,8 +920,7 @@
                 "Wall"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A"
@@ -997,8 +973,7 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -1049,8 +1024,7 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -1103,8 +1077,7 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -1153,16 +1126,13 @@
                 "Destructible"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A"
@@ -1199,16 +1169,13 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -1255,22 +1222,6 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
                 "Floor A"
             ],
             [
@@ -1299,16 +1250,28 @@
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
                 "Floor B",
                 "Wall"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
             ],
             [
                 "Floor B",
@@ -1355,21 +1318,6 @@
                 "Destructible"
             ],
             [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A"
-            ],
-            [
                 "Floor B"
             ],
             [
@@ -1394,16 +1342,25 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
             ],
             [
                 "Floor A",
@@ -1596,7 +1553,7 @@
             "destructible": [
                 "DestructibleSpawn",
                 [
-                    "Ingredient",
+                    "Builder",
                     null
                 ]
             ],
@@ -1626,7 +1583,7 @@
             "destructible": [
                 "DestructibleSpawn",
                 [
-                    "Builder",
+                    "Ingredient",
                     null
                 ]
             ],

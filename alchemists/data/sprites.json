@@ -283,8 +283,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 407,
+                            "x": 176,
+                            "y": 696,
                             "width": 24,
                             "height": 30
                         },
@@ -306,14 +306,14 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 30,
-                            "y": 44,
-                            "width": 31,
-                            "height": 19
+                            "x": 201,
+                            "y": 696,
+                            "width": 24,
+                            "height": 30
                         },
                         "offset": {
-                            "x": 1,
-                            "y": 7
+                            "x": 4,
+                            "y": -8
                         },
                         "metaData": []
                     }
@@ -329,8 +329,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 499,
+                            "x": 241,
+                            "y": 798,
                             "width": 29,
                             "height": 29
                         },
@@ -359,7 +359,7 @@
                         },
                         "offset": {
                             "x": 1,
-                            "y": -29
+                            "y": -28
                         },
                         "metaData": []
                     }
@@ -444,7 +444,7 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 207,
+                            "x": 208,
                             "y": 832,
                             "width": 32,
                             "height": 32
@@ -467,8 +467,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 60,
-                            "y": 560,
+                            "x": 208,
+                            "y": 806,
                             "width": 32,
                             "height": 25
                         },
@@ -513,8 +513,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -548,14 +548,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 185,
-                            "y": 754,
+                            "x": 240,
+                            "y": 894,
                             "width": 25,
                             "height": 36
                         },
@@ -566,7 +567,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -588,8 +590,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 152,
-                            "y": 655,
+                            "x": 162,
+                            "y": 614,
                             "width": 25,
                             "height": 40
                         },
@@ -598,15 +600,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -621,8 +622,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -637,8 +654,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 34,
-                            "y": 3,
+                            "x": 152,
+                            "y": 655,
                             "width": 28,
                             "height": 40
                         },
@@ -648,7 +665,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -675,14 +693,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 237,
-                            "y": 898,
+                            "x": 266,
+                            "y": 902,
                             "width": 29,
                             "height": 32
                         },
@@ -693,14 +712,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 130,
-                            "y": 474,
+                            "x": 161,
+                            "y": 564,
                             "width": 18,
                             "height": 16
                         },
@@ -725,15 +745,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -748,8 +767,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -775,7 +810,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -797,14 +833,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 270,
-                            "y": 870,
+                            "x": 188,
+                            "y": 598,
                             "width": 31,
                             "height": 31
                         },
@@ -815,14 +852,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 294,
-                            "y": 775,
+                            "x": 207,
+                            "y": 791,
                             "width": 18,
                             "height": 14
                         },
@@ -847,15 +885,14 @@
                             "y": -36
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -870,8 +907,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -897,7 +950,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -919,7 +973,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -937,14 +992,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 142,
-                            "y": 510,
+                            "x": 161,
+                            "y": 548,
                             "width": 18,
                             "height": 15
                         },
@@ -969,15 +1025,14 @@
                             "y": -37
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -992,8 +1047,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1019,7 +1090,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1041,7 +1113,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -1059,14 +1132,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 200,
-                            "y": 723,
+                            "x": 245,
+                            "y": 564,
                             "width": 17,
                             "height": 14
                         },
@@ -1091,15 +1165,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1114,8 +1187,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1141,7 +1230,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1163,14 +1253,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 240,
-                            "y": 865,
+                            "x": 270,
+                            "y": 869,
                             "width": 29,
                             "height": 32
                         },
@@ -1181,14 +1272,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 111,
-                            "y": 472,
+                            "x": 63,
+                            "y": 70,
                             "width": 18,
                             "height": 17
                         },
@@ -1213,15 +1305,14 @@
                             "y": -34
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1236,8 +1327,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -50
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1263,7 +1370,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1285,14 +1393,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 207,
-                            "y": 799,
+                            "x": 185,
+                            "y": 758,
                             "width": 31,
                             "height": 32
                         },
@@ -1303,14 +1412,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 89,
-                            "y": 450,
+                            "x": 64,
+                            "y": 371,
                             "width": 20,
                             "height": 19
                         },
@@ -1335,15 +1445,14 @@
                             "y": -36
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1358,8 +1467,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1385,7 +1510,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1407,7 +1533,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -1425,14 +1552,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 89,
-                            "y": 412,
+                            "x": 62,
+                            "y": 298,
                             "width": 22,
                             "height": 17
                         },
@@ -1457,15 +1585,14 @@
                             "y": -38
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1480,8 +1607,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -54
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1507,7 +1650,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1529,14 +1673,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 237,
-                            "y": 767,
+                            "x": 155,
+                            "y": 581,
                             "width": 32,
                             "height": 31
                         },
@@ -1547,14 +1692,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 149,
-                            "y": 478,
+                            "x": 121,
+                            "y": 565,
                             "width": 19,
                             "height": 15
                         },
@@ -1579,15 +1725,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1602,8 +1747,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 15,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1629,7 +1790,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1644,8 +1806,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1660,8 +1822,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1676,8 +1854,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 96,
+                            "x": 258,
+                            "y": 611,
                             "width": 14,
                             "height": 27
                         },
@@ -1688,14 +1866,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -1705,14 +1884,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 791,
+                            "x": 60,
+                            "y": 565,
                             "width": 24,
                             "height": 20
                         },
@@ -1754,7 +1935,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1769,8 +1951,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1785,8 +1967,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1801,8 +1999,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 76,
-                            "y": 304,
+                            "x": 264,
+                            "y": 768,
                             "width": 12,
                             "height": 29
                         },
@@ -1813,14 +2011,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -1830,14 +2029,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 271,
-                            "y": 790,
+                            "x": 63,
+                            "y": 123,
                             "width": 23,
                             "height": 15
                         },
@@ -1879,7 +2080,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -1889,8 +2091,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -1905,8 +2107,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -56
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -1921,8 +2139,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 76,
-                            "y": 274,
+                            "x": 257,
+                            "y": 669,
                             "width": 12,
                             "height": 29
                         },
@@ -1933,14 +2151,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -1950,14 +2169,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 178,
-                            "y": 669,
+                            "x": 63,
+                            "y": 207,
                             "width": 22,
                             "height": 16
                         },
@@ -1999,7 +2220,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2009,8 +2231,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2025,8 +2247,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -57
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2041,8 +2279,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 68,
+                            "x": 259,
+                            "y": 583,
                             "width": 12,
                             "height": 27
                         },
@@ -2053,14 +2291,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2070,14 +2309,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 117,
-                            "y": 543,
+                            "x": 62,
+                            "y": 280,
                             "width": 22,
                             "height": 17
                         },
@@ -2119,7 +2360,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2129,8 +2371,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2145,8 +2387,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -55
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2161,8 +2419,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 77,
-                            "y": 216,
+                            "x": 64,
+                            "y": 499,
                             "width": 12,
                             "height": 27
                         },
@@ -2173,14 +2431,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2190,14 +2449,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 270,
-                            "y": 773,
+                            "x": 59,
+                            "y": 527,
                             "width": 23,
                             "height": 16
                         },
@@ -2239,7 +2500,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2249,8 +2511,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2265,8 +2527,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -54
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2281,8 +2559,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 242,
+                            "x": 257,
+                            "y": 639,
                             "width": 12,
                             "height": 29
                         },
@@ -2293,14 +2571,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2310,14 +2589,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 185,
-                            "y": 738,
+                            "x": 63,
+                            "y": 107,
                             "width": 23,
                             "height": 15
                         },
@@ -2359,7 +2640,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2369,8 +2651,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2385,8 +2667,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -56
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2401,8 +2699,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 76,
-                            "y": 244,
+                            "x": 245,
+                            "y": 608,
                             "width": 12,
                             "height": 29
                         },
@@ -2413,14 +2711,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2430,14 +2729,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 118,
-                            "y": 526,
+                            "x": 63,
+                            "y": 190,
                             "width": 22,
                             "height": 16
                         },
@@ -2479,7 +2780,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2489,8 +2791,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2505,8 +2807,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -57
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2521,8 +2839,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 77,
-                            "y": 188,
+                            "x": 64,
+                            "y": 471,
                             "width": 12,
                             "height": 27
                         },
@@ -2533,14 +2851,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2550,14 +2869,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 91,
-                            "y": 394,
+                            "x": 63,
+                            "y": 242,
                             "width": 22,
                             "height": 17
                         },
@@ -2599,7 +2920,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2609,8 +2931,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2625,8 +2947,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -55
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2641,8 +2979,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 77,
-                            "y": 160,
+                            "x": 64,
+                            "y": 443,
                             "width": 12,
                             "height": 27
                         },
@@ -2653,14 +2991,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 93,
-                            "y": 555,
+                            "x": 226,
+                            "y": 699,
                             "width": 22,
                             "height": 30
                         },
@@ -2670,14 +3009,16 @@
                         },
                         "metaData": [
                             "Normal",
-                            "Bomb"
+                            "Bomb",
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 176,
-                            "y": 721,
+                            "x": 63,
+                            "y": 173,
                             "width": 23,
                             "height": 16
                         },
@@ -2719,7 +3060,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -2734,8 +3076,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 94,
-                            "y": 489,
+                            "x": 259,
+                            "y": 743,
                             "width": 16,
                             "height": 24
                         },
@@ -2746,14 +3088,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -2764,14 +3107,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 355,
+                            "x": 30,
+                            "y": 41,
                             "width": 24,
                             "height": 22
                         },
@@ -2813,14 +3157,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2835,8 +3180,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2860,8 +3221,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 153,
+                            "x": 245,
+                            "y": 730,
                             "width": 13,
                             "height": 28
                         },
@@ -2872,14 +3233,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -2890,14 +3252,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 92,
-                            "y": 534,
+                            "x": 85,
+                            "y": 565,
                             "width": 24,
                             "height": 20
                         },
@@ -2939,14 +3302,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -2961,8 +3325,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -2981,8 +3361,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 62,
-                            "y": 303,
+                            "x": 249,
+                            "y": 699,
                             "width": 13,
                             "height": 30
                         },
@@ -2993,14 +3373,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3011,14 +3392,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 116,
-                            "y": 561,
+                            "x": 84,
+                            "y": 545,
                             "width": 23,
                             "height": 19
                         },
@@ -3060,14 +3442,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3082,8 +3465,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3102,8 +3501,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 212,
+                            "x": 243,
+                            "y": 638,
                             "width": 13,
                             "height": 29
                         },
@@ -3114,14 +3513,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3132,14 +3532,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 176,
-                            "y": 704,
+                            "x": 63,
+                            "y": 156,
                             "width": 23,
                             "height": 16
                         },
@@ -3181,14 +3582,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3203,8 +3605,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3223,8 +3641,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 77,
-                            "y": 134,
+                            "x": 64,
+                            "y": 417,
                             "width": 13,
                             "height": 25
                         },
@@ -3235,14 +3653,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3253,14 +3672,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 89,
-                            "y": 359,
+                            "x": 182,
+                            "y": 791,
                             "width": 24,
                             "height": 17
                         },
@@ -3302,14 +3722,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3324,8 +3745,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3344,8 +3781,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 124,
+                            "x": 245,
+                            "y": 579,
                             "width": 13,
                             "height": 28
                         },
@@ -3356,14 +3793,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3374,14 +3812,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 62,
-                            "y": 334,
+                            "x": 59,
+                            "y": 544,
                             "width": 24,
                             "height": 20
                         },
@@ -3423,14 +3862,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3445,8 +3885,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -50
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3465,8 +3921,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 62,
-                            "y": 272,
+                            "x": 243,
+                            "y": 668,
                             "width": 13,
                             "height": 30
                         },
@@ -3477,14 +3933,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3495,14 +3952,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 94,
-                            "y": 514,
+                            "x": 62,
+                            "y": 334,
                             "width": 23,
                             "height": 19
                         },
@@ -3544,14 +4002,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3566,8 +4025,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3586,8 +4061,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 63,
-                            "y": 182,
+                            "x": 250,
+                            "y": 768,
                             "width": 13,
                             "height": 29
                         },
@@ -3598,14 +4073,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3616,14 +4092,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 118,
-                            "y": 509,
+                            "x": 63,
+                            "y": 139,
                             "width": 23,
                             "height": 16
                         },
@@ -3665,14 +4142,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3687,8 +4165,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3707,8 +4201,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 140,
-                            "y": 555,
+                            "x": 64,
+                            "y": 391,
                             "width": 13,
                             "height": 25
                         },
@@ -3719,14 +4213,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 182,
-                            "y": 812,
+                            "x": 34,
+                            "y": 3,
                             "width": 24,
                             "height": 37
                         },
@@ -3737,14 +4232,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 211,
-                            "y": 744,
+                            "x": 62,
+                            "y": 316,
                             "width": 24,
                             "height": 17
                         },
@@ -3786,14 +4282,15 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3808,8 +4305,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 599,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": 4,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3845,14 +4358,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 211,
-                            "y": 762,
+                            "x": 241,
+                            "y": 828,
                             "width": 25,
                             "height": 36
                         },
@@ -3863,7 +4377,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -3885,8 +4400,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 177,
-                            "y": 891,
+                            "x": 182,
+                            "y": 809,
                             "width": 25,
                             "height": 40
                         },
@@ -3895,15 +4410,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -3918,8 +4432,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -3934,8 +4464,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 162,
-                            "y": 614,
+                            "x": 177,
+                            "y": 891,
                             "width": 28,
                             "height": 40
                         },
@@ -3945,7 +4475,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -3972,14 +4503,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 240,
-                            "y": 832,
+                            "x": 181,
+                            "y": 663,
                             "width": 29,
                             "height": 32
                         },
@@ -3990,14 +4522,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 141,
-                            "y": 526,
+                            "x": 108,
+                            "y": 545,
                             "width": 18,
                             "height": 16
                         },
@@ -4022,15 +4555,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4045,8 +4577,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4072,7 +4620,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4094,14 +4643,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 270,
-                            "y": 838,
+                            "x": 188,
+                            "y": 566,
                             "width": 31,
                             "height": 31
                         },
@@ -4112,14 +4662,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 200,
-                            "y": 708,
+                            "x": 199,
+                            "y": 551,
                             "width": 18,
                             "height": 14
                         },
@@ -4144,15 +4695,14 @@
                             "y": -36
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4167,8 +4717,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4194,7 +4760,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4216,7 +4783,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -4234,14 +4802,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 295,
-                            "y": 790,
+                            "x": 180,
+                            "y": 550,
                             "width": 18,
                             "height": 15
                         },
@@ -4266,15 +4835,14 @@
                             "y": -37
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4289,8 +4857,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -53
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4316,7 +4900,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4338,7 +4923,8 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
@@ -4356,14 +4942,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 201,
-                            "y": 693,
+                            "x": 63,
+                            "y": 55,
                             "width": 17,
                             "height": 14
                         },
@@ -4388,15 +4975,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4411,8 +4997,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4438,7 +5040,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4460,14 +5063,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 267,
-                            "y": 902,
+                            "x": 188,
+                            "y": 630,
                             "width": 29,
                             "height": 32
                         },
@@ -4478,14 +5082,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 130,
-                            "y": 491,
+                            "x": 127,
+                            "y": 547,
                             "width": 18,
                             "height": 17
                         },
@@ -4510,15 +5115,14 @@
                             "y": -34
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4533,8 +5137,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -50
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4560,7 +5180,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4582,14 +5203,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 239,
-                            "y": 799,
+                            "x": 211,
+                            "y": 663,
                             "width": 31,
                             "height": 32
                         },
@@ -4600,14 +5222,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 89,
-                            "y": 430,
+                            "x": 63,
+                            "y": 260,
                             "width": 20,
                             "height": 19
                         },
@@ -4632,15 +5255,14 @@
                             "y": -36
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4655,8 +5277,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -52
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4682,7 +5320,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4704,13 +5343,14 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
+                            "x": 206,
                             "y": 898,
                             "width": 33,
                             "height": 32
@@ -4722,14 +5362,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 178,
-                            "y": 686,
+                            "x": 63,
+                            "y": 224,
                             "width": 22,
                             "height": 17
                         },
@@ -4754,15 +5395,14 @@
                             "y": -38
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4777,8 +5417,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -54
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4804,7 +5460,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4826,14 +5483,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 271,
-                            "y": 806,
+                            "x": 217,
+                            "y": 759,
                             "width": 32,
                             "height": 31
                         },
@@ -4844,14 +5502,15 @@
                         "metaData": [
                             "Normal",
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 270,
-                            "y": 757,
+                            "x": 141,
+                            "y": 565,
                             "width": 19,
                             "height": 15
                         },
@@ -4876,15 +5535,14 @@
                             "y": -35
                         },
                         "metaData": [
-                            "Normal",
-                            "Bomb"
+                            "Normal"
                         ]
                     },
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 438,
+                            "x": 218,
+                            "y": 631,
                             "width": 24,
                             "height": 31
                         },
@@ -4899,8 +5557,24 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 470,
+                            "x": 220,
+                            "y": 567,
+                            "width": 24,
+                            "height": 31
+                        },
+                        "offset": {
+                            "x": -7,
+                            "y": -51
+                        },
+                        "metaData": [
+                            "Builder"
+                        ]
+                    },
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 240,
+                            "y": 865,
                             "width": 29,
                             "height": 28
                         },
@@ -4926,7 +5600,8 @@
                         },
                         "metaData": [
                             "Bomb",
-                            "Ingredient"
+                            "Ingredient",
+                            "Builder"
                         ]
                     }
                 ]
@@ -4964,8 +5639,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 59,
-                            "y": 529,
+                            "x": 185,
+                            "y": 727,
                             "width": 32,
                             "height": 30
                         },
@@ -4987,8 +5662,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 94,
-                            "y": 470,
+                            "x": 263,
+                            "y": 712,
                             "width": 16,
                             "height": 18
                         },
@@ -5005,8 +5680,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 64,
-                            "y": 378,
+                            "x": 218,
+                            "y": 730,
                             "width": 26,
                             "height": 28
                         },
@@ -5208,8 +5883,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 153,
-                            "y": 543,
+                            "x": 180,
+                            "y": 569,
                             "width": 7,
                             "height": 11
                         },
@@ -5231,8 +5906,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 207,
-                            "y": 657,
+                            "x": 275,
+                            "y": 731,
                             "width": 6,
                             "height": 11
                         },
@@ -5254,8 +5929,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 155,
-                            "y": 585,
+                            "x": 55,
+                            "y": 52,
                             "width": 7,
                             "height": 11
                         },
@@ -5277,8 +5952,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 214,
-                            "y": 666,
+                            "x": 77,
+                            "y": 499,
                             "width": 7,
                             "height": 11
                         },
@@ -5300,8 +5975,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 214,
-                            "y": 654,
+                            "x": 77,
+                            "y": 487,
                             "width": 7,
                             "height": 11
                         },
@@ -5323,8 +5998,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 214,
-                            "y": 642,
+                            "x": 77,
+                            "y": 475,
                             "width": 7,
                             "height": 11
                         },
@@ -5346,8 +6021,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 214,
-                            "y": 630,
+                            "x": 77,
+                            "y": 463,
                             "width": 7,
                             "height": 11
                         },
@@ -5369,8 +6044,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 229,
-                            "y": 732,
+                            "x": 77,
+                            "y": 451,
                             "width": 7,
                             "height": 11
                         },
@@ -5392,8 +6067,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 290,
-                            "y": 761,
+                            "x": 270,
+                            "y": 688,
                             "width": 7,
                             "height": 11
                         },
@@ -5415,8 +6090,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 308,
-                            "y": 763,
+                            "x": 270,
+                            "y": 676,
                             "width": 7,
                             "height": 11
                         },
@@ -5461,8 +6136,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 149,
-                            "y": 494,
+                            "x": 146,
+                            "y": 549,
                             "width": 14,
                             "height": 15
                         },
@@ -5484,8 +6159,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 191,
-                            "y": 645,
+                            "x": 270,
+                            "y": 664,
                             "width": 11,
                             "height": 11
                         },
@@ -5507,8 +6182,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 645,
+                            "x": 87,
+                            "y": 625,
                             "width": 10,
                             "height": 11
                         },
@@ -5530,8 +6205,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 155,
-                            "y": 597,
+                            "x": 77,
+                            "y": 511,
                             "width": 5,
                             "height": 15
                         },
@@ -5599,8 +6274,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 298,
-                            "y": 763,
+                            "x": 273,
+                            "y": 628,
                             "width": 9,
                             "height": 11
                         },
@@ -5622,8 +6297,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 111,
-                            "y": 509,
+                            "x": 181,
+                            "y": 658,
                             "width": 6,
                             "height": 4
                         },
@@ -5645,8 +6320,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 191,
-                            "y": 633,
+                            "x": 270,
+                            "y": 652,
                             "width": 11,
                             "height": 11
                         },
@@ -5668,8 +6343,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 287,
-                            "y": 973,
+                            "x": 273,
+                            "y": 616,
                             "width": 9,
                             "height": 11
                         },
@@ -5714,8 +6389,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 297,
-                            "y": 963,
+                            "x": 176,
+                            "y": 735,
                             "width": 8,
                             "height": 11
                         },
@@ -5737,8 +6412,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 633,
+                            "x": 110,
+                            "y": 574,
                             "width": 10,
                             "height": 11
                         },
@@ -5760,8 +6435,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 140,
-                            "y": 543,
+                            "x": 263,
+                            "y": 700,
                             "width": 12,
                             "height": 11
                         },
@@ -5783,8 +6458,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 297,
-                            "y": 951,
+                            "x": 276,
+                            "y": 700,
                             "width": 6,
                             "height": 11
                         },
@@ -5806,8 +6481,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 287,
-                            "y": 961,
+                            "x": 263,
+                            "y": 571,
                             "width": 9,
                             "height": 11
                         },
@@ -5829,8 +6504,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 201,
-                            "y": 681,
+                            "x": 270,
+                            "y": 640,
                             "width": 12,
                             "height": 11
                         },
@@ -5852,8 +6527,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 287,
-                            "y": 949,
+                            "x": 82,
+                            "y": 80,
                             "width": 9,
                             "height": 11
                         },
@@ -5875,8 +6550,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 59,
-                            "y": 527,
+                            "x": 247,
+                            "y": 983,
                             "width": 4,
                             "height": 1
                         },
@@ -5921,8 +6596,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 201,
-                            "y": 669,
+                            "x": 82,
+                            "y": 68,
                             "width": 12,
                             "height": 11
                         },
@@ -5944,8 +6619,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 214,
-                            "y": 678,
+                            "x": 82,
+                            "y": 92,
                             "width": 4,
                             "height": 14
                         },
@@ -5967,8 +6642,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 621,
+                            "x": 110,
+                            "y": 562,
                             "width": 10,
                             "height": 11
                         },
@@ -5990,8 +6665,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 287,
-                            "y": 937,
+                            "x": 278,
+                            "y": 688,
                             "width": 9,
                             "height": 11
                         },
@@ -6013,8 +6688,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 306,
-                            "y": 963,
+                            "x": 287,
+                            "y": 973,
                             "width": 6,
                             "height": 11
                         },
@@ -6036,8 +6711,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 87,
-                            "y": 622,
+                            "x": 226,
+                            "y": 791,
                             "width": 10,
                             "height": 14
                         },
@@ -6059,8 +6734,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 194,
-                            "y": 657,
+                            "x": 81,
+                            "y": 56,
                             "width": 12,
                             "height": 11
                         },
@@ -6082,8 +6757,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 316,
-                            "y": 975,
+                            "x": 282,
+                            "y": 664,
                             "width": 7,
                             "height": 11
                         },
@@ -6105,8 +6780,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 307,
-                            "y": 975,
+                            "x": 282,
+                            "y": 652,
                             "width": 8,
                             "height": 11
                         },
@@ -6128,8 +6803,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 191,
-                            "y": 621,
+                            "x": 278,
+                            "y": 676,
                             "width": 11,
                             "height": 11
                         },
@@ -6151,8 +6826,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 191,
-                            "y": 609,
+                            "x": 283,
+                            "y": 640,
                             "width": 11,
                             "height": 11
                         },
@@ -6174,8 +6849,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 178,
-                            "y": 657,
+                            "x": 259,
+                            "y": 731,
                             "width": 15,
                             "height": 11
                         },
@@ -6197,8 +6872,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 609,
+                            "x": 283,
+                            "y": 628,
                             "width": 11,
                             "height": 11
                         },
@@ -6220,8 +6895,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 218,
-                            "y": 732,
+                            "x": 283,
+                            "y": 616,
                             "width": 10,
                             "height": 11
                         },
@@ -6243,8 +6918,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 297,
-                            "y": 975,
+                            "x": 263,
+                            "y": 559,
                             "width": 9,
                             "height": 11
                         },
@@ -6266,8 +6941,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 91,
-                            "y": 377,
+                            "x": 64,
+                            "y": 354,
                             "width": 22,
                             "height": 16
                         },
@@ -6335,8 +7010,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 267,
-                            "y": 899,
+                            "x": 218,
+                            "y": 727,
                             "width": 2,
                             "height": 2
                         },
@@ -6358,8 +7033,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 87,
-                            "y": 619,
+                            "x": 226,
+                            "y": 696,
                             "width": 2,
                             "height": 2
                         },
@@ -6381,8 +7056,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 891,
+                            "x": 121,
+                            "y": 562,
                             "width": 2,
                             "height": 2
                         },
@@ -6398,6 +7073,75 @@
     },
     {
         "name": "Button-Right",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 124,
+                            "y": 562,
+                            "width": 2,
+                            "height": 2
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Button-TopLeft",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 180,
+                            "y": 566,
+                            "width": 2,
+                            "height": 2
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Button-TopRight",
+        "frames": [
+            {
+                "layers": [
+                    {
+                        "texture": "mega",
+                        "rect": {
+                            "x": 181,
+                            "y": 655,
+                            "width": 2,
+                            "height": 2
+                        },
+                        "offset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "metaData": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Button-Top",
         "frames": [
             {
                 "layers": [
@@ -6420,75 +7164,6 @@
         ]
     },
     {
-        "name": "Button-TopLeft",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 68,
-                            "y": 676,
-                            "width": 2,
-                            "height": 2
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Button-TopRight",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 95,
-                            "y": 689,
-                            "width": 2,
-                            "height": 2
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Button-Top",
-        "frames": [
-            {
-                "layers": [
-                    {
-                        "texture": "mega",
-                        "rect": {
-                            "x": 90,
-                            "y": 619,
-                            "width": 2,
-                            "height": 2
-                        },
-                        "offset": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "metaData": []
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Window Title",
         "frames": [
             {
@@ -6496,8 +7171,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 111,
-                            "y": 490,
+                            "x": 63,
+                            "y": 88,
                             "width": 18,
                             "height": 18
                         },
@@ -6519,8 +7194,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 30,
-                            "y": 40,
+                            "x": 259,
+                            "y": 579,
                             "width": 3,
                             "height": 3
                         },
@@ -6565,8 +7240,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 203,
-                            "y": 894,
+                            "x": 253,
+                            "y": 931,
                             "width": 3,
                             "height": 3
                         },
@@ -6588,8 +7263,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 207,
-                            "y": 795,
+                            "x": 266,
+                            "y": 898,
                             "width": 3,
                             "height": 3
                         },
@@ -6611,8 +7286,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 207,
-                            "y": 791,
+                            "x": 266,
+                            "y": 894,
                             "width": 3,
                             "height": 3
                         },
@@ -6634,8 +7309,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 253,
-                            "y": 931,
+                            "x": 237,
+                            "y": 802,
                             "width": 3,
                             "height": 3
                         },
@@ -6703,8 +7378,8 @@
                     {
                         "texture": "mega",
                         "rect": {
-                            "x": 261,
-                            "y": 931,
+                            "x": 237,
+                            "y": 798,
                             "width": 3,
                             "height": 3
                         },
