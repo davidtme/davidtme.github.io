@@ -127,14 +127,6 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
                 "Floor B"
             ],
             [
@@ -180,12 +172,16 @@
                 "Floor B"
             ],
             [
-                "Floor A",
-                "Destructible"
+                "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
             ],
             [
                 "Floor A"
@@ -207,6 +203,200 @@
                 "Wall Down"
             ],
             [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor B",
+                "Wall Down"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor A",
+                "Wall Down"
+            ],
+            [
                 "Floor B"
             ],
             [
@@ -221,92 +411,60 @@
             ],
             [
                 "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
                 "Destructible"
             ],
             [
-                "Floor B"
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
             ],
             [
                 "Floor A"
             ],
             [
-                "Floor B"
+                "Floor B",
+                "Wall"
             ],
             [
                 "Floor A",
-                "Wall Down"
-            ]
-        ],
-        [
+                "Chest"
+            ],
             [
                 "Floor B",
-                "Wall Down"
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
             ],
             [
                 "Floor A"
             ],
             [
-                "Floor B"
+                "Floor B",
+                "Wall"
             ],
             [
                 "Floor A"
@@ -327,776 +485,6 @@
             ],
             [
                 "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor A",
-                "Wall Down"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor B",
-                "Wall Down"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor A",
-                "Wall Down"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor B",
-                "Wall Down"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor A",
-                "Wall Down"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor B",
-                "Wall Down"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Barrier"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Chest"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall Down"
-            ]
-        ],
-        [
-            [
-                "Floor A",
-                "Wall Down"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Barrier"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Chest"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A",
-                "Wall"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
             ],
             [
                 "Floor A",
@@ -1132,6 +520,398 @@
                 "Floor A"
             ],
             [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor A",
+                "Wall Down"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor B",
+                "Wall Down"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor A",
+                "Wall Down"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor B",
+                "Wall Down"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A",
+                "Destructible"
+            ],
+            [
                 "Floor B"
             ],
             [
@@ -1151,7 +931,23 @@
             ],
             [
                 "Floor A",
-                "Chest"
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Barrier"
+            ],
+            [
+                "Floor A",
+                "Barrier"
             ],
             [
                 "Floor B",
@@ -1164,12 +960,6 @@
             [
                 "Floor B",
                 "Chest"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
             ],
             [
                 "Floor A"
@@ -1219,10 +1009,49 @@
             ],
             [
                 "Floor B",
+                "Destructible"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
                 "Wall"
             ],
             [
                 "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Barrier"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Chest"
             ],
             [
                 "Floor B",
@@ -1240,42 +1069,7 @@
             ],
             [
                 "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B",
-                "Wall"
+                "Destructible"
             ],
             [
                 "Floor A",
@@ -1310,65 +1104,255 @@
                 "Floor A"
             ],
             [
-                "Floor B",
-                "Destructible"
-            ],
-            [
-                "Floor A",
-                "Destructible"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
-                "Floor B"
-            ],
-            [
-                "Floor A"
-            ],
-            [
                 "Floor B"
             ],
             [
                 "Floor A",
-                "Destructible"
+                "Wall"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
             ],
             [
                 "Floor B",
-                "Destructible"
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A",
+                "Chest"
+            ],
+            [
+                "Floor B",
+                "Chest"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor A",
+                "Wall Down"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B",
+                "Wall"
+            ],
+            [
+                "Floor A",
+                "Wall Down"
+            ]
+        ],
+        [
+            [
+                "Floor B",
+                "Wall Down"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
+            ],
+            [
+                "Floor A"
+            ],
+            [
+                "Floor B"
             ],
             [
                 "Floor A"
@@ -1497,6 +1481,18 @@
     ],
     "pointTypes": [
         {
+            "name": "Floor A",
+            "destructible": "Indestructible",
+            "passable": true,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Floor B",
+            "destructible": "Indestructible",
+            "passable": true,
+            "mode": "Scenery"
+        },
+        {
             "name": "Cauldron",
             "destructible": "Indestructible",
             "passable": false,
@@ -1526,17 +1522,6 @@
             "mode": "Scenery"
         },
         {
-            "name": "Destructible Damaged 1",
-            "destructible": [
-                "DestructibleSpawn",
-                [
-                    "Destructible Damaged 2"
-                ]
-            ],
-            "passable": false,
-            "mode": "Scenery"
-        },
-        {
             "name": "Destructible Damaged 2",
             "destructible": "Destructible",
             "passable": false,
@@ -1544,6 +1529,24 @@
         },
         {
             "name": "Builder",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Pickup"
+        },
+        {
+            "name": "Barrier",
+            "destructible": [
+                "DestructibleSpawn",
+                [
+                    "Ingredient",
+                    null
+                ]
+            ],
+            "passable": false,
+            "mode": "Scenery"
+        },
+        {
+            "name": "Ingredient",
             "destructible": "Indestructible",
             "passable": false,
             "mode": "Pickup"
@@ -1561,65 +1564,25 @@
             "mode": "Scenery"
         },
         {
-            "name": "Ingredient",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Pickup"
-        },
-        {
-            "name": "Floor A",
-            "destructible": "Indestructible",
-            "passable": true,
-            "mode": "Scenery"
-        },
-        {
-            "name": "Floor B",
-            "destructible": "Indestructible",
-            "passable": true,
-            "mode": "Scenery"
-        },
-        {
-            "name": "Barrier",
+            "name": "Destructible Damaged 1",
             "destructible": [
                 "DestructibleSpawn",
                 [
-                    "Ingredient",
-                    null
+                    "Destructible Damaged 2"
                 ]
             ],
             "passable": false,
             "mode": "Scenery"
         },
         {
-            "name": "Wall A",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Scenery",
-            "zIndex": 1
-        },
-        {
-            "name": "Wall Down",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Scenery",
-            "zIndex": 1
-        },
-        {
-            "name": "Wall Left Top",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Scenery",
-            "zIndex": 1
-        },
-        {
-            "name": "Wall Right Top",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Scenery",
-            "zIndex": 1
-        },
-        {
             "name": "Wall Top Left Corner",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery",
+            "zIndex": 1
+        },
+        {
+            "name": "Wall A",
             "destructible": "Indestructible",
             "passable": false,
             "mode": "Scenery",
@@ -1633,7 +1596,21 @@
             "zIndex": 1
         },
         {
-            "name": "Wall Bottom Left Corner A",
+            "name": "Wall Left Top",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery",
+            "zIndex": 1
+        },
+        {
+            "name": "Wall Down",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery",
+            "zIndex": 1
+        },
+        {
+            "name": "Wall Right Top",
             "destructible": "Indestructible",
             "passable": false,
             "mode": "Scenery",
@@ -1641,6 +1618,20 @@
         },
         {
             "name": "Wall Bottom Left Corner",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery",
+            "zIndex": 1
+        },
+        {
+            "name": "Wall Bottom Left Corner A",
+            "destructible": "Indestructible",
+            "passable": false,
+            "mode": "Scenery",
+            "zIndex": 1
+        },
+        {
+            "name": "Wall Bottom",
             "destructible": "Indestructible",
             "passable": false,
             "mode": "Scenery",
@@ -1659,13 +1650,6 @@
             "passable": false,
             "mode": "Scenery",
             "zIndex": 1
-        },
-        {
-            "name": "Wall Bottom",
-            "destructible": "Indestructible",
-            "passable": false,
-            "mode": "Scenery",
-            "zIndex": 1
         }
     ],
     "interactives": [
@@ -1673,7 +1657,7 @@
             "Gate",
             {
                 "x": 2,
-                "y": 5
+                "y": 2
             },
             {
                 "player": 1,
@@ -1685,7 +1669,7 @@
             "Cauldron",
             {
                 "x": 24,
-                "y": 2
+                "y": 5
             },
             {
                 "player": 4
@@ -1695,7 +1679,7 @@
             "Cauldron",
             {
                 "x": 24,
-                "y": 12
+                "y": 9
             },
             {
                 "player": 2
@@ -1705,7 +1689,7 @@
             "Cauldron",
             {
                 "x": 2,
-                "y": 12
+                "y": 9
             },
             {
                 "player": 3
@@ -1715,7 +1699,7 @@
             "Cauldron",
             {
                 "x": 2,
-                "y": 2
+                "y": 5
             },
             {
                 "player": 1
@@ -1724,8 +1708,8 @@
         [
             "Gate",
             {
-                "x": 22,
-                "y": 8
+                "x": 24,
+                "y": 12
             },
             {
                 "player": 2,
@@ -1737,24 +1721,9 @@
             "Trigger",
             {
                 "x": 2.0,
-                "y": 4.0,
+                "y": 1.0,
                 "width": 1.0,
-                "height": 0.5
-            },
-            {
-                "target": 28,
-                "action": "GateClose",
-                "player": 1,
-                "mode": "PlayerMove"
-            }
-        ],
-        [
-            "Trigger",
-            {
-                "x": 2.0,
-                "y": 4.5,
-                "width": 1.0,
-                "height": 0.5
+                "height": 1.0
             },
             {
                 "target": 28,
@@ -1767,7 +1736,7 @@
             "Trigger",
             {
                 "x": 2.0,
-                "y": 6.0,
+                "y": 3.0,
                 "width": 1.0,
                 "height": 0.5
             },
@@ -1782,7 +1751,7 @@
             "Trigger",
             {
                 "x": 2.0,
-                "y": 6.5,
+                "y": 3.5,
                 "width": 1.0,
                 "height": 0.5
             },
@@ -1796,9 +1765,9 @@
         [
             "Trigger",
             {
-                "x": 20.998697916666657,
-                "y": 7.9765625,
-                "width": 0.5,
+                "x": 23.0,
+                "y": 11.0,
+                "width": 1.0,
                 "height": 1.0
             },
             {
@@ -1811,9 +1780,24 @@
         [
             "Trigger",
             {
-                "x": 21.498697916666657,
-                "y": 7.9765625,
-                "width": 0.5,
+                "x": 24.0,
+                "y": 11.5,
+                "width": 1.0,
+                "height": 0.5
+            },
+            {
+                "target": 57,
+                "action": "GateOpen",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 24.0,
+                "y": 13.0,
+                "width": 1.0,
                 "height": 1.0
             },
             {
@@ -1826,25 +1810,10 @@
         [
             "Trigger",
             {
-                "x": 22.998697916666657,
-                "y": 7.9765625,
-                "width": 0.5,
-                "height": 1.0
-            },
-            {
-                "target": 57,
-                "action": "GateOpen",
-                "player": 2,
-                "mode": "PlayerMove"
-            }
-        ],
-        [
-            "Trigger",
-            {
-                "x": 23.498697916666657,
-                "y": 7.9765625,
-                "width": 0.5,
-                "height": 1.0
+                "x": 24.0,
+                "y": 11.0,
+                "width": 1.0,
+                "height": 0.5
             },
             {
                 "target": 57,
@@ -1857,7 +1826,7 @@
             "Trigger",
             {
                 "x": 1.5,
-                "y": 1.5,
+                "y": 4.5,
                 "width": 2.0,
                 "height": 2.0
             },
@@ -1871,7 +1840,7 @@
             "Trigger",
             {
                 "x": 3.0,
-                "y": 6.0,
+                "y": 3.0,
                 "width": 1.0,
                 "height": 1.0
             },
@@ -1886,7 +1855,7 @@
             "Trigger",
             {
                 "x": 1.0,
-                "y": 6.0,
+                "y": 3.0,
                 "width": 1.0,
                 "height": 1.0
             },
@@ -1901,7 +1870,7 @@
             "Trigger",
             {
                 "x": 23.5,
-                "y": 11.520833333333345,
+                "y": 8.5,
                 "width": 2.0,
                 "height": 2.0
             },
@@ -1914,10 +1883,10 @@
         [
             "Trigger",
             {
-                "x": 21.498697916666657,
-                "y": 8.9765625,
-                "width": 0.5,
-                "height": 0.5
+                "x": 23.0,
+                "y": 13.0,
+                "width": 1.0,
+                "height": 1.0
             },
             {
                 "target": 57,
@@ -1929,10 +1898,55 @@
         [
             "Trigger",
             {
-                "x": 21.498697916666657,
-                "y": 7.4765625,
-                "width": 0.5,
-                "height": 0.5
+                "x": 25.0,
+                "y": 11.0,
+                "width": 1.0,
+                "height": 1.0
+            },
+            {
+                "target": 57,
+                "action": "GateClose",
+                "player": 2,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 3.0,
+                "y": 1.0,
+                "width": 1.0,
+                "height": 1.0
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 1.0,
+                "y": 1.0,
+                "width": 1.0,
+                "height": 1.0
+            },
+            {
+                "target": 28,
+                "action": "GateClose",
+                "player": 1,
+                "mode": "PlayerMove"
+            }
+        ],
+        [
+            "Trigger",
+            {
+                "x": 25.0,
+                "y": 13.0,
+                "width": 1.0,
+                "height": 1.0
             },
             {
                 "target": 57,
