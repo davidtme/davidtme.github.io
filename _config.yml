@@ -149,6 +149,14 @@ pwa:
 
 paginate: 10
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
 # The base URL of your site
 baseurl: ""
 
