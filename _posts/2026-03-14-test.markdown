@@ -8,3 +8,13 @@ author: Dave
 This is a test to see if png files work:
 
 ![Sine image](/assets/cs-black-000.png)
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
