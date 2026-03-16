@@ -18,3 +18,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+{% include mermaid.html %}
