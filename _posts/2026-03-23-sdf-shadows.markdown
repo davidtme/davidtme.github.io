@@ -109,6 +109,11 @@ block-beta
 
   style r2c0 fill:#fff,color:#000
   style r2c1 fill:#fff,color:#000
+
+  style r2c2 fill:#888,color:#000
+  style r2c3 fill:#888,color:#000
+  style r2c4 fill:#888,color:#000
+  
   style r2c5 fill:#fff,color:#000
   style r2c6 fill:#fff,color:#000
 
@@ -128,9 +133,6 @@ block-beta
   style r4c5 fill:#fff,color:#000
   style r4c6 fill:#fff,color:#000
 
-  style r2c2 fill:#000,color:#fff
-  style r2c3 fill:#000,color:#fff
-  style r2c4 fill:#000,color:#fff
 ```
 
 This doesn't tell us which direction the object is, but it does tell us how far we can safely move without hitting anything.
