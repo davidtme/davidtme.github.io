@@ -3,6 +3,7 @@ layout: post
 title: SDF Shadows
 date: 2026-03-23
 author: Dave
+description: Using Signed Distance Fields to accelerate 2D shadows - fewer ray steps for much better performance.
 ---
 
 The goal in any engine is to take a bit of the real world, cram it into a computer, and then cut as many corners as possible while still keeping the illusion. Shadows are a perfect example of this.
