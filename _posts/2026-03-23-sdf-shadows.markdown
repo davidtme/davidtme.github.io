@@ -17,11 +17,11 @@ To make life easier, let's flatten the world. Imagine we're looking straight dow
 ```mermaid
 block-beta
   columns 7
-  r0c0["-"] r0c1["-"] r0c2["-"] r0c3["-"] r0c4["-"] r0c5["-"] r0c6["-"]
-  r1c0["-"] r1c1["-"] r1c2["-"] r1c3["-"] r1c4["-"] r1c5["-"] r1c6["-"]
-  r2c0["-"] r2c1["-"] r2c2["-"] r2c3["-"] r2c4["-"] r2c5["-"] r2c6["-"]
-  r3c0["-"] r3c1["-"] r3c2["-"] r3c3["-"] r3c4["-"] r3c5["-"] r3c6["-"]
-  r4c0["-"] r4c1["-"] r4c2["-"] r4c3["-"] r4c4["-"] r4c5["-"] r4c6["-"]
+  r0c0[" "] r0c1[" "] r0c2[" "] r0c3[" "] r0c4[" "] r0c5[" "] r0c6[" "]
+  r1c0[" "] r1c1[" "] r1c2[" "] r1c3[" "] r1c4[" "] r1c5[" "] r1c6[" "]
+  r2c0[" "] r2c1[" "] r2c2["-"] r2c3["-"] r2c4["-"] r2c5[" "] r2c6[" "]
+  r3c0[" "] r3c1[" "] r3c2[" "] r3c3[" "] r3c4[" "] r3c5[" "] r3c6[" "]
+  r4c0[" "] r4c1[" "] r4c2[" "] r4c3[" "] r4c4[" "] r4c5[" "] r4c6[" "]
 
   style r0c0 fill:#fff,color:#fff
   style r0c1 fill:#fff,color:#fff
