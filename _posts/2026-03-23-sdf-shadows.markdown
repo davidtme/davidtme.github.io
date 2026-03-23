@@ -41,9 +41,6 @@ block-beta
 
   style r2c0 fill:#fff,color:#fff
   style r2c1 fill:#fff,color:#fff
-  style r2c2 fill:#fff,color:#fff
-  style r2c3 fill:#fff,color:#fff
-  style r2c4 fill:#fff,color:#fff
   style r2c5 fill:#fff,color:#fff
   style r2c6 fill:#fff,color:#fff
 
@@ -112,9 +109,6 @@ block-beta
 
   style r2c0 fill:#fff,color:#000
   style r2c1 fill:#fff,color:#000
-  style r2c2 fill:#fff,color:#000
-  style r2c3 fill:#fff,color:#000
-  style r2c4 fill:#fff,color:#000
   style r2c5 fill:#fff,color:#000
   style r2c6 fill:#fff,color:#000
 
